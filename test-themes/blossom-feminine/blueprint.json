@@ -21,7 +21,7 @@
       "step": "importWxr",
       "file": {
         "resource": "url",
-        "url": "https://github.com/TomsProgramming/thema-markt/raw/refs/heads/main/test-themes/blossom-feminine/blossom-demo.xml"
+        "url": "https://github.com/TomsProgramming/thema-markt/raw/refs/heads/main/demo-content/blossom-feminine/blossom-demo.xml"
       }
     }
   ]
