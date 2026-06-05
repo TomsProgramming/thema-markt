@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+<channel>
+<title>Blossom Feminine Demo</title>
+<link>https://example.com</link>
+<description>Een lifestyle en fashion blog</description>
+<pubDate>Sat, 10 Jan 2026 09:00:00 +0000</pubDate>
+<language>en-US</language>
+<wp:wxr_version>1.2</wp:wxr_version>
+<wp:base_site_url>https://example.com</wp:base_site_url>
+<wp:base_blog_url>https://example.com</wp:base_blog_url>
+<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[admin@example.com]]></wp:author_email><wp:author_display_name><![CDATA[Emma]]></wp:author_display_name><wp:author_first_name><![CDATA[Emma]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+<wp:category><wp:term_id>11</wp:term_id><wp:category_nicename><![CDATA[lifestyle]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Lifestyle]]></wp:cat_name></wp:category>
+<wp:category><wp:term_id>12</wp:term_id><wp:category_nicename><![CDATA[fashion]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Fashion]]></wp:cat_name></wp:category>
+<wp:category><wp:term_id>13</wp:term_id><wp:category_nicename><![CDATA[travel]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Travel]]></wp:cat_name></wp:category>
+<wp:category><wp:term_id>14</wp:term_id><wp:category_nicename><![CDATA[food]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Food]]></wp:cat_name></wp:category>
+<wp:category><wp:term_id>15</wp:term_id><wp:category_nicename><![CDATA[beauty]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Beauty]]></wp:cat_name></wp:category>
+<wp:term><wp:term_id>20</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary-menu]]></wp:term_slug><wp:term_name><![CDATA[Primary Menu]]></wp:term_name></wp:term>
+<generator>https://wordpress.org/?v=6.7</generator>
+<item>
+<title><![CDATA[5 Morning Rituals for a Calmer, Brighter Day image]]></title>
+<link>https://example.com/?p=301</link>
+<pubDate>Sat, 10 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/images/morning-rituals.jpg</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>301</wp:post_id>
+<wp:post_date><![CDATA[2026-01-10 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-10 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[morning-rituals-image]]></wp:post_name>
+<wp:status><![CDATA[inherit]]></wp:status>
+<wp:post_parent>101</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[attachment]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/images/morning-rituals.jpg]]></wp:attachment_url>
+<wp:postmeta><wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key><wp:meta_value><![CDATA[5 Morning Rituals for a Calmer, Brighter Day]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[5 Morning Rituals for a Calmer, Brighter Day]]></title>
+<link>https://example.com/?p=101</link>
+<pubDate>Sat, 10 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?p=101</guid>
+<description></description>
+<content:encoded><![CDATA[<p>How you spend the first hour of your morning sets the tone for everything that follows. Over the past year I've slowly built a routine that helps me feel grounded before the day even begins.</p>
+
+<p>It started small: a glass of water, ten minutes of stretching, and no phone until I'd had my coffee. Those tiny choices add up to a morning that feels like mine instead of a race against the clock.</p>
+
+<h2>Start with stillness</h2>Before reaching for your to-do list, give yourself five quiet minutes. Light a candle, breathe, and simply notice how you feel. It sounds almost too simple, but it works.
+
+<p>Try one ritual this week and see how it shifts your mood. You might be surprised how much calmer a single small habit can make you feel.</p>]]></content:encoded>
+<excerpt:encoded><![CDATA[How you spend the first hour of your morning sets the tone for everything that follows. Over the past year I've slowly built a routine that ]]></excerpt:encoded>
+<wp:post_id>101</wp:post_id>
+<wp:post_date><![CDATA[2026-01-10 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-10 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[open]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[morning-rituals]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[post]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key><wp:meta_value><![CDATA[301]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[Spring Wardrobe Essentials You'll Reach For Daily image]]></title>
+<link>https://example.com/?p=302</link>
+<pubDate>Mon, 26 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/images/spring-wardrobe-essentials.jpg</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>302</wp:post_id>
+<wp:post_date><![CDATA[2026-01-26 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-26 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[spring-wardrobe-essentials-image]]></wp:post_name>
+<wp:status><![CDATA[inherit]]></wp:status>
+<wp:post_parent>102</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[attachment]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/images/spring-wardrobe-essentials.jpg]]></wp:attachment_url>
+<wp:postmeta><wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key><wp:meta_value><![CDATA[Spring Wardrobe Essentials You'll Reach For Daily]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[Spring Wardrobe Essentials You'll Reach For Daily]]></title>
+<link>https://example.com/?p=102</link>
+<pubDate>Mon, 26 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?p=102</guid>
+<description></description>
+<content:encoded><![CDATA[<p>Every spring I do a little closet reset, and every year I'm reminded that a handful of well-chosen pieces beats a closet bursting with options.</p>
+
+<h2>The pieces that earn their place</h2>A crisp white blouse, a pair of tailored linen trousers, and a soft midi dress in a colour that makes you smile. These are the items I rotate again and again.
+
+<p>Accessories do the heavy lifting in spring. A woven bag, delicate gold jewellery, and a pair of comfortable flats can take a simple outfit from plain to polished.</p>
+
+<p>The goal isn't more clothes, it's clothes that work together effortlessly. Build slowly and choose pieces you genuinely love.</p>]]></content:encoded>
+<excerpt:encoded><![CDATA[Every spring I do a little closet reset, and every year I'm reminded that a handful of well-chosen pieces beats a closet bursting with optio]]></excerpt:encoded>
+<wp:post_id>102</wp:post_id>
+<wp:post_date><![CDATA[2026-01-26 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-26 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[open]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[spring-wardrobe-essentials]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[post]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key><wp:meta_value><![CDATA[302]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[A Slow Weekend Guide to the Amalfi Coast image]]></title>
+<link>https://example.com/?p=303</link>
+<pubDate>Wed, 11 Feb 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/images/amalfi-coast-weekend.jpg</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>303</wp:post_id>
+<wp:post_date><![CDATA[2026-02-11 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-02-11 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[amalfi-coast-weekend-image]]></wp:post_name>
+<wp:status><![CDATA[inherit]]></wp:status>
+<wp:post_parent>103</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[attachment]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/images/amalfi-coast-weekend.jpg]]></wp:attachment_url>
+<wp:postmeta><wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key><wp:meta_value><![CDATA[A Slow Weekend Guide to the Amalfi Coast]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[A Slow Weekend Guide to the Amalfi Coast]]></title>
+<link>https://example.com/?p=103</link>
+<pubDate>Wed, 11 Feb 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?p=103</guid>
+<description></description>
+<content:encoded><![CDATA[<p>The Amalfi Coast is the kind of place that stays with you long after you've left. Lemon groves, pastel villages, and that impossibly blue water.</p>
+
+<h2>Where to wander</h2>Skip the rush. Spend a morning getting lost in the lanes of Positano, then take the ferry to a quieter village for lunch by the sea.
+
+<p>Eat where the locals eat, order whatever has lemon in it, and don't over-plan. The coast rewards those who slow down.</p>
+
+<p>Two days is just enough to fall in love and start planning your return.</p>]]></content:encoded>
+<excerpt:encoded><![CDATA[The Amalfi Coast is the kind of place that stays with you long after you've left. Lemon groves, pastel villages, and that impossibly blue wa]]></excerpt:encoded>
+<wp:post_id>103</wp:post_id>
+<wp:post_date><![CDATA[2026-02-11 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-02-11 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[open]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[amalfi-coast-weekend]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[post]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key><wp:meta_value><![CDATA[303]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[The Perfect Homemade Berry Smoothie Bowl image]]></title>
+<link>https://example.com/?p=304</link>
+<pubDate>Fri, 27 Feb 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/images/berry-smoothie-bowl.jpg</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>304</wp:post_id>
+<wp:post_date><![CDATA[2026-02-27 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-02-27 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[berry-smoothie-bowl-image]]></wp:post_name>
+<wp:status><![CDATA[inherit]]></wp:status>
+<wp:post_parent>104</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[attachment]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/images/berry-smoothie-bowl.jpg]]></wp:attachment_url>
+<wp:postmeta><wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key><wp:meta_value><![CDATA[The Perfect Homemade Berry Smoothie Bowl]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[The Perfect Homemade Berry Smoothie Bowl]]></title>
+<link>https://example.com/?p=104</link>
+<pubDate>Fri, 27 Feb 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?p=104</guid>
+<description></description>
+<content:encoded><![CDATA[<p>Smoothie bowls are my favourite way to start a warm morning. They feel like a treat but leave me energised for hours.</p>
+
+<h2>The base</h2>Frozen mixed berries, half a banana, a splash of almond milk, and a spoon of yoghurt. Blend until thick enough to eat with a spoon.
+
+<p>Then comes the fun part: granola, fresh fruit, a drizzle of honey, and a sprinkle of seeds. Make it as pretty as you like.</p>
+
+<p>It takes five minutes and never gets boring, because you can change the toppings with the seasons.</p>]]></content:encoded>
+<excerpt:encoded><![CDATA[Smoothie bowls are my favourite way to start a warm morning. They feel like a treat but leave me energised for hours.]]></excerpt:encoded>
+<wp:post_id>104</wp:post_id>
+<wp:post_date><![CDATA[2026-02-27 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-02-27 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[open]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[berry-smoothie-bowl]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[post]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="category" nicename="food"><![CDATA[Food]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key><wp:meta_value><![CDATA[304]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[My Everyday Natural Makeup Routine image]]></title>
+<link>https://example.com/?p=305</link>
+<pubDate>Sun, 15 Mar 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/images/everyday-natural-makeup.jpg</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>305</wp:post_id>
+<wp:post_date><![CDATA[2026-03-15 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-03-15 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[everyday-natural-makeup-image]]></wp:post_name>
+<wp:status><![CDATA[inherit]]></wp:status>
+<wp:post_parent>105</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[attachment]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/images/everyday-natural-makeup.jpg]]></wp:attachment_url>
+<wp:postmeta><wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key><wp:meta_value><![CDATA[My Everyday Natural Makeup Routine]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[My Everyday Natural Makeup Routine]]></title>
+<link>https://example.com/?p=105</link>
+<pubDate>Sun, 15 Mar 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?p=105</guid>
+<description></description>
+<content:encoded><![CDATA[<p>My goal with everyday makeup is simple: look like myself, just a little more rested and glowing.</p>
+
+<h2>Skin first</h2>Good skin starts before makeup. A gentle cleanser, a hydrating serum, and SPF every single day make the biggest difference.
+
+<p>For the look itself I keep it light: tinted moisturiser, a touch of cream blush, a swipe of mascara, and a tinted lip balm. Five products, five minutes.</p>
+
+<p>Less really can be more. When your skin feels cared for, you need far less to feel put together.</p>]]></content:encoded>
+<excerpt:encoded><![CDATA[My goal with everyday makeup is simple: look like myself, just a little more rested and glowing.]]></excerpt:encoded>
+<wp:post_id>105</wp:post_id>
+<wp:post_date><![CDATA[2026-03-15 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-03-15 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[open]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[everyday-natural-makeup]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[post]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="category" nicename="beauty"><![CDATA[Beauty]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key><wp:meta_value><![CDATA[305]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[How to Create a Cozy Reading Nook at Home image]]></title>
+<link>https://example.com/?p=306</link>
+<pubDate>Tue, 31 Mar 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/images/cozy-reading-nook.jpg</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>306</wp:post_id>
+<wp:post_date><![CDATA[2026-03-31 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-03-31 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[cozy-reading-nook-image]]></wp:post_name>
+<wp:status><![CDATA[inherit]]></wp:status>
+<wp:post_parent>106</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[attachment]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/images/cozy-reading-nook.jpg]]></wp:attachment_url>
+<wp:postmeta><wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key><wp:meta_value><![CDATA[How to Create a Cozy Reading Nook at Home]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[How to Create a Cozy Reading Nook at Home]]></title>
+<link>https://example.com/?p=106</link>
+<pubDate>Tue, 31 Mar 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?p=106</guid>
+<description></description>
+<content:encoded><![CDATA[<p>There's something special about having one corner of your home that exists purely for slowing down with a good book.</p>
+
+<h2>The essentials</h2>A comfortable chair, soft lighting, a small side table for your tea, and a blanket you can't resist wrapping up in.
+
+<p>Add a few personal touches: a plant, a stack of your favourite reads, and a candle that makes the space feel like a retreat.</p>
+
+<p>You don't need a big house or a fancy budget, just a little corner you'll look forward to coming back to.</p>]]></content:encoded>
+<excerpt:encoded><![CDATA[There's something special about having one corner of your home that exists purely for slowing down with a good book.]]></excerpt:encoded>
+<wp:post_id>106</wp:post_id>
+<wp:post_date><![CDATA[2026-03-31 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-03-31 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[open]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[cozy-reading-nook]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[post]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key><wp:meta_value><![CDATA[306]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[Sustainable Fashion: Building a Capsule Closet image]]></title>
+<link>https://example.com/?p=307</link>
+<pubDate>Thu, 16 Apr 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/images/capsule-closet.jpg</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>307</wp:post_id>
+<wp:post_date><![CDATA[2026-04-16 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-04-16 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[capsule-closet-image]]></wp:post_name>
+<wp:status><![CDATA[inherit]]></wp:status>
+<wp:post_parent>107</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[attachment]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/images/capsule-closet.jpg]]></wp:attachment_url>
+<wp:postmeta><wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key><wp:meta_value><![CDATA[Sustainable Fashion: Building a Capsule Closet]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[Sustainable Fashion: Building a Capsule Closet]]></title>
+<link>https://example.com/?p=107</link>
+<pubDate>Thu, 16 Apr 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?p=107</guid>
+<description></description>
+<content:encoded><![CDATA[<p>A capsule wardrobe changed the way I shop. Fewer, better pieces that all work together, chosen with care instead of impulse.</p>
+
+<h2>Start with what you love</h2>Look at the clothes you actually wear and notice the patterns. Those favourites are the foundation of your capsule.
+
+<p>Choose natural fabrics, neutral tones, and timeless shapes. When everything coordinates, getting dressed becomes calm instead of chaotic.</p>
+
+<p>Sustainable style isn't about perfection. It's about buying less and wearing it longer.</p>]]></content:encoded>
+<excerpt:encoded><![CDATA[A capsule wardrobe changed the way I shop. Fewer, better pieces that all work together, chosen with care instead of impulse.]]></excerpt:encoded>
+<wp:post_id>107</wp:post_id>
+<wp:post_date><![CDATA[2026-04-16 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-04-16 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[open]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[capsule-closet]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[post]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key><wp:meta_value><![CDATA[307]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[Hidden Cafés in Paris Worth Seeking Out image]]></title>
+<link>https://example.com/?p=308</link>
+<pubDate>Sat, 02 May 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/images/hidden-cafes-paris.jpg</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>308</wp:post_id>
+<wp:post_date><![CDATA[2026-05-02 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-05-02 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[hidden-cafes-paris-image]]></wp:post_name>
+<wp:status><![CDATA[inherit]]></wp:status>
+<wp:post_parent>108</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[attachment]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/images/hidden-cafes-paris.jpg]]></wp:attachment_url>
+<wp:postmeta><wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key><wp:meta_value><![CDATA[Hidden Cafés in Paris Worth Seeking Out]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[Hidden Cafés in Paris Worth Seeking Out]]></title>
+<link>https://example.com/?p=108</link>
+<pubDate>Sat, 02 May 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?p=108</guid>
+<description></description>
+<content:encoded><![CDATA[<p>Paris is full of famous cafés, but the most memorable cups of coffee I've had were in the quiet ones tucked down side streets.</p>
+
+<h2>Off the beaten path</h2>Wander away from the main squares and you'll find tiny spots with mismatched chairs, friendly owners, and pastries still warm from the oven.
+
+<p>Order a café crème, find a seat by the window, and watch the city go by. No rush, no itinerary.</p>
+
+<p>These little places are where Paris feels most like itself.</p>]]></content:encoded>
+<excerpt:encoded><![CDATA[Paris is full of famous cafés, but the most memorable cups of coffee I've had were in the quiet ones tucked down side streets.]]></excerpt:encoded>
+<wp:post_id>108</wp:post_id>
+<wp:post_date><![CDATA[2026-05-02 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-05-02 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[open]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[hidden-cafes-paris]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[post]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key><wp:meta_value><![CDATA[308]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[About Me]]></title>
+<link>https://example.com/?p=201</link>
+<pubDate>Sat, 10 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?p=201</guid>
+<description></description>
+<content:encoded><![CDATA[<p>Hi, I'm Emma, the writer and dreamer behind this little corner of the internet.</p>
+
+<p>I started this blog to share the things that bring me joy: slow mornings, good food, beautiful places, and the small rituals that make everyday life feel a little more intentional.</p>
+
+<h2>What you'll find here</h2>Honest lifestyle stories, seasonal fashion, travel notes from near and far, simple recipes, and the occasional beauty favourite. Thanks so much for being here.
+
+<p>Grab a cup of tea, get comfortable, and stay a while.</p>]]></content:encoded>
+<excerpt:encoded><![CDATA[Hi, I'm Emma, the writer and dreamer behind this little corner of the internet.]]></excerpt:encoded>
+<wp:post_id>201</wp:post_id>
+<wp:post_date><![CDATA[2026-01-10 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-10 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[about]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[page]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+</item>
+<item>
+<title><![CDATA[Get in Touch]]></title>
+<link>https://example.com/?p=202</link>
+<pubDate>Sat, 10 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?p=202</guid>
+<description></description>
+<content:encoded><![CDATA[<p>I'd love to hear from you, whether it's a question, a collaboration, or simply to say hello.</p>
+
+<h2>Say hello</h2>You can reach me any time at hello@example.com and I'll do my best to reply within a few days.
+
+<p>For brand and partnership enquiries, please include a few details about what you have in mind so I can point you in the right direction.</p>
+
+<p>Looking forward to connecting!</p>]]></content:encoded>
+<excerpt:encoded><![CDATA[I'd love to hear from you, whether it's a question, a collaboration, or simply to say hello.]]></excerpt:encoded>
+<wp:post_id>202</wp:post_id>
+<wp:post_date><![CDATA[2026-01-10 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-10 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[contact]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[page]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+</item>
+<item>
+<title><![CDATA[Home]]></title>
+<link>https://example.com/?p=401</link>
+<pubDate>Sat, 10 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?p=401</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>401</wp:post_id>
+<wp:post_date><![CDATA[2026-01-10 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-10 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[menu-item-401]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>1</wp:menu_order>
+<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[custom]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key><wp:meta_value><![CDATA[0]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[401]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[custom]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key><wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key><wp:meta_value><![CDATA[/]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[Lifestyle]]></title>
+<link>https://example.com/?p=402</link>
+<pubDate>Sat, 10 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?p=402</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>402</wp:post_id>
+<wp:post_date><![CDATA[2026-01-10 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-10 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[menu-item-402]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>2</wp:menu_order>
+<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[taxonomy]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key><wp:meta_value><![CDATA[0]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[11]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[category]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key><wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[Fashion]]></title>
+<link>https://example.com/?p=403</link>
+<pubDate>Sat, 10 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?p=403</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>403</wp:post_id>
+<wp:post_date><![CDATA[2026-01-10 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-10 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[menu-item-403]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>3</wp:menu_order>
+<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[taxonomy]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key><wp:meta_value><![CDATA[0]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[12]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[category]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key><wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[Travel]]></title>
+<link>https://example.com/?p=404</link>
+<pubDate>Sat, 10 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?p=404</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>404</wp:post_id>
+<wp:post_date><![CDATA[2026-01-10 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-10 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[menu-item-404]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>4</wp:menu_order>
+<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[taxonomy]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key><wp:meta_value><![CDATA[0]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[13]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[category]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key><wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[About]]></title>
+<link>https://example.com/?p=405</link>
+<pubDate>Sat, 10 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?p=405</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>405</wp:post_id>
+<wp:post_date><![CDATA[2026-01-10 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-10 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[menu-item-405]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>5</wp:menu_order>
+<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[post_type]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key><wp:meta_value><![CDATA[0]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[201]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[page]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key><wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[Contact]]></title>
+<link>https://example.com/?p=406</link>
+<pubDate>Sat, 10 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?p=406</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>406</wp:post_id>
+<wp:post_date><![CDATA[2026-01-10 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-10 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[menu-item-406]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>6</wp:menu_order>
+<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[post_type]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key><wp:meta_value><![CDATA[0]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[202]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[page]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key><wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+</item>
+</channel>
+</rss>

@@ -1,15 +1,28 @@
 {
-    "$schema": "https://playground.wordpress.net/blueprint-schema.json",
-    "steps": [
-        {
-            "step": "installTheme",
-            "themeData": {
-                "resource": "url",
-                "url": "https://github.com/TomsProgramming/thema-markt/raw/refs/heads/main/test-themes/blossom-feminine/blossom-feminine.1.5.2.zip"
-            },
-            "options": {
-                "activate": true
-            }
-        }
-    ]
+  "$schema": "https://playground.wordpress.net/blueprint-schema.json",
+  "login": true,
+  "plugins": ["blossomthemes-toolkit"],
+  "siteOptions": {
+    "blogname": "Blossom Feminine Demo",
+    "blogdescription": "Een lifestyle & fashion blog",
+    "permalink_structure": "/%postname%/",
+    "posts_per_page": "9"
+  },
+  "steps": [
+    {
+      "step": "installTheme",
+      "themeData": {
+        "resource": "url",
+        "url": "https://github.com/TomsProgramming/thema-markt/raw/refs/heads/main/test-themes/blossom-feminine/blossom-feminine.1.5.2.zip"
+      },
+      "options": { "activate": true }
+    },
+    {
+      "step": "importWxr",
+      "file": {
+        "resource": "url",
+        "url": "https://github.com/TomsProgramming/thema-markt/raw/refs/heads/main/test-themes/blossom-feminine/blossom-demo.xml"
+      }
+    }
+  ]
 }
