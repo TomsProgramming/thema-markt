@@ -5,7 +5,7 @@
             "step": "installTheme",
             "themeData": {
                 "resource": "url",
-                "url": "https://github.com/TomsProgramming/thema-markt/raw/refs/heads/main/test-themes/zakra/zakra.4.2.1.zip"
+                "url": "https://github.com/TomsProgramming/thema-markt/raw/refs/heads/main/test-themes/blossom-feminine/blossom-feminine.1.5.2.zip"
             },
             "options": {
                 "activate": true

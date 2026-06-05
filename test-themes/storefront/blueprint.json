@@ -5,7 +5,7 @@
             "step": "installTheme",
             "themeData": {
                 "resource": "url",
-                "url": "https://github.com/TomsProgramming/thema-markt/raw/refs/heads/main/test-themes/zakra/zakra.4.2.1.zip"
+                "url": "https://github.com/TomsProgramming/thema-markt/raw/refs/heads/main/test-themes/storefront/storefront.4.6.2.zip"
             },
             "options": {
                 "activate": true
