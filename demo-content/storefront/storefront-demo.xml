@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+<channel>
+<title>Maple &amp; Stone</title>
+<link>https://example.com</link>
+<description>Homeware and decor for considered living</description>
+<pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+<language>en-US</language>
+<wp:wxr_version>1.2</wp:wxr_version>
+<wp:base_site_url>https://example.com</wp:base_site_url>
+<wp:base_blog_url>https://example.com</wp:base_blog_url>
+<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[admin@example.com]]></wp:author_email><wp:author_display_name><![CDATA[Maple & Stone]]></wp:author_display_name><wp:author_first_name><![CDATA[Maple]]></wp:author_first_name><wp:author_last_name><![CDATA[Stone]]></wp:author_last_name></wp:author>
+<wp:term><wp:term_id>31</wp:term_id><wp:term_taxonomy>product_cat</wp:term_taxonomy><wp:term_slug><![CDATA[living]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[Living]]></wp:term_name><wp:term_description><![CDATA[Soft textiles and comfort for every room.]]></wp:term_description><wp:termmeta><wp:meta_key><![CDATA[thumbnail_id]]></wp:meta_key><wp:meta_value><![CDATA[311]]></wp:meta_value></wp:termmeta></wp:term>
+<wp:term><wp:term_id>32</wp:term_id><wp:term_taxonomy>product_cat</wp:term_taxonomy><wp:term_slug><![CDATA[kitchen]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[Kitchen]]></wp:term_name><wp:term_description><![CDATA[Everyday tools made to last.]]></wp:term_description><wp:termmeta><wp:meta_key><![CDATA[thumbnail_id]]></wp:meta_key><wp:meta_value><![CDATA[312]]></wp:meta_value></wp:termmeta></wp:term>
+<wp:term><wp:term_id>33</wp:term_id><wp:term_taxonomy>product_cat</wp:term_taxonomy><wp:term_slug><![CDATA[decor]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[Decor]]></wp:term_name><wp:term_description><![CDATA[The finishing touches that make a house a home.]]></wp:term_description><wp:termmeta><wp:meta_key><![CDATA[thumbnail_id]]></wp:meta_key><wp:meta_value><![CDATA[313]]></wp:meta_value></wp:termmeta></wp:term>
+<wp:term><wp:term_id>41</wp:term_id><wp:term_taxonomy>product_type</wp:term_taxonomy><wp:term_slug><![CDATA[simple]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[simple]]></wp:term_name></wp:term>
+<wp:term><wp:term_id>51</wp:term_id><wp:term_taxonomy>product_visibility</wp:term_taxonomy><wp:term_slug><![CDATA[featured]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[featured]]></wp:term_name></wp:term>
+<wp:term><wp:term_id>20</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary-menu]]></wp:term_slug><wp:term_name><![CDATA[Primary Menu]]></wp:term_name></wp:term>
+<generator>https://wordpress.org/?v=6.7</generator>
+
+<item>
+<title><![CDATA[Linen Throw Pillow image]]></title>
+<link>https://example.com/?p=301</link>
+<pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/storefront/images/linen-throw-pillow.jpg</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>301</wp:post_id>
+<wp:post_date><![CDATA[2026-01-12 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-12 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[linen-throw-pillow-image]]></wp:post_name>
+<wp:status><![CDATA[inherit]]></wp:status>
+<wp:post_parent>101</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[attachment]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/storefront/images/linen-throw-pillow.jpg]]></wp:attachment_url>
+<wp:postmeta><wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key><wp:meta_value><![CDATA[Linen Throw Pillow]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[Linen Throw Pillow]]></title>
+<link>https://example.com/?post_type=product&#038;p=101</link>
+<pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?post_type=product&#038;p=101</guid>
+<description></description>
+<content:encoded><![CDATA[<p>Sink into softness. Our stonewashed linen throw pillow brings relaxed texture and quiet colour to a sofa, bed or reading chair. The cover is made from pure European linen that only gets better with every wash.</p>
+<p>Each pillow comes with a plump feather-blend insert and a hidden zip, so refreshing the look is as easy as swapping the cover with the seasons.</p>]]></content:encoded>
+<excerpt:encoded><![CDATA[Stonewashed pure-linen cushion with a feather-blend insert and hidden zip.]]></excerpt:encoded>
+<wp:post_id>101</wp:post_id>
+<wp:post_date><![CDATA[2026-01-12 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-12 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[open]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[linen-throw-pillow]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[product]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="product_cat" nicename="living"><![CDATA[Living]]></category>
+<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+<category domain="product_visibility" nicename="featured"><![CDATA[featured]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_sku]]></wp:meta_key><wp:meta_value><![CDATA[MS-LP-01]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_regular_price]]></wp:meta_key><wp:meta_value><![CDATA[39]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_price]]></wp:meta_key><wp:meta_value><![CDATA[39]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_stock_status]]></wp:meta_key><wp:meta_value><![CDATA[instock]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key><wp:meta_value><![CDATA[no]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_virtual]]></wp:meta_key><wp:meta_value><![CDATA[no]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_downloadable]]></wp:meta_key><wp:meta_value><![CDATA[no]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[total_sales]]></wp:meta_key><wp:meta_value><![CDATA[24]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key><wp:meta_value><![CDATA[301]]></wp:meta_value></wp:postmeta>
+</item>
+
+<item>
+<title><![CDATA[Stoneware Mug Set image]]></title>
+<link>https://example.com/?p=302</link>
+<pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/storefront/images/stoneware-mug-set.jpg</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>302</wp:post_id>
+<wp:post_date><![CDATA[2026-01-12 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-12 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[stoneware-mug-set-image]]></wp:post_name>
+<wp:status><![CDATA[inherit]]></wp:status>
+<wp:post_parent>102</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[attachment]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/storefront/images/stoneware-mug-set.jpg]]></wp:attachment_url>
+<wp:postmeta><wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key><wp:meta_value><![CDATA[Stoneware Mug Set]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[Stoneware Mug Set]]></title>
+<link>https://example.com/?post_type=product&#038;p=102</link>
+<pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?post_type=product&#038;p=102</guid>
+<description></description>
+<content:encoded><![CDATA[<p>A set of four hand-glazed stoneware mugs in soft, earthy tones. No two are exactly alike, thanks to the reactive glaze that pools and shifts in the kiln.</p>
+<p>Generously sized for a slow morning coffee and comfortable to hold, they are dishwasher and microwave safe for everyday use.</p>]]></content:encoded>
+<excerpt:encoded><![CDATA[Set of four hand-glazed stoneware mugs in soft, earthy tones.]]></excerpt:encoded>
+<wp:post_id>102</wp:post_id>
+<wp:post_date><![CDATA[2026-01-12 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-12 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[open]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[stoneware-mug-set]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[product]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="product_cat" nicename="kitchen"><![CDATA[Kitchen]]></category>
+<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_sku]]></wp:meta_key><wp:meta_value><![CDATA[MS-MG-02]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_regular_price]]></wp:meta_key><wp:meta_value><![CDATA[28]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_price]]></wp:meta_key><wp:meta_value><![CDATA[28]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_stock_status]]></wp:meta_key><wp:meta_value><![CDATA[instock]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key><wp:meta_value><![CDATA[no]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_virtual]]></wp:meta_key><wp:meta_value><![CDATA[no]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_downloadable]]></wp:meta_key><wp:meta_value><![CDATA[no]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[total_sales]]></wp:meta_key><wp:meta_value><![CDATA[41]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key><wp:meta_value><![CDATA[302]]></wp:meta_value></wp:postmeta>
+</item>
+
+<item>
+<title><![CDATA[Oak Serving Board image]]></title>
+<link>https://example.com/?p=303</link>
+<pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/storefront/images/oak-serving-board.jpg</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>303</wp:post_id>
+<wp:post_date><![CDATA[2026-01-12 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-12 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[oak-serving-board-image]]></wp:post_name>
+<wp:status><![CDATA[inherit]]></wp:status>
+<wp:post_parent>103</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[attachment]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/storefront/images/oak-serving-board.jpg]]></wp:attachment_url>
+<wp:postmeta><wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key><wp:meta_value><![CDATA[Oak Serving Board]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[Oak Serving Board]]></title>
+<link>https://example.com/?post_type=product&#038;p=103</link>
+<pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?post_type=product&#038;p=103</guid>
+<description></description>
+<content:encoded><![CDATA[<p>Carved from a single piece of solid oak, this serving board is equal parts everyday workhorse and centrepiece. Use it for a weekend cheese spread or as a warm wooden tray for drinks.</p>
+<p>Finished by hand with food-safe oil and fitted with a leather hanging loop. Wipe clean and re-oil now and then to keep the grain glowing for years.</p>]]></content:encoded>
+<excerpt:encoded><![CDATA[Solid oak serving board, hand-finished with food-safe oil and a leather loop.]]></excerpt:encoded>
+<wp:post_id>103</wp:post_id>
+<wp:post_date><![CDATA[2026-01-12 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-12 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[open]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[oak-serving-board]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[product]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="product_cat" nicename="kitchen"><![CDATA[Kitchen]]></category>
+<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_sku]]></wp:meta_key><wp:meta_value><![CDATA[MS-SB-03]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_regular_price]]></wp:meta_key><wp:meta_value><![CDATA[59]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_sale_price]]></wp:meta_key><wp:meta_value><![CDATA[45]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_price]]></wp:meta_key><wp:meta_value><![CDATA[45]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_stock_status]]></wp:meta_key><wp:meta_value><![CDATA[instock]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key><wp:meta_value><![CDATA[no]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_virtual]]></wp:meta_key><wp:meta_value><![CDATA[no]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_downloadable]]></wp:meta_key><wp:meta_value><![CDATA[no]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[total_sales]]></wp:meta_key><wp:meta_value><![CDATA[18]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key><wp:meta_value><![CDATA[303]]></wp:meta_value></wp:postmeta>
+</item>
+
+<item>
+<title><![CDATA[Ceramic Vase image]]></title>
+<link>https://example.com/?p=304</link>
+<pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/storefront/images/ceramic-vase.jpg</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>304</wp:post_id>
+<wp:post_date><![CDATA[2026-01-12 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-12 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[ceramic-vase-image]]></wp:post_name>
+<wp:status><![CDATA[inherit]]></wp:status>
+<wp:post_parent>104</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[attachment]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/storefront/images/ceramic-vase.jpg]]></wp:attachment_url>
+<wp:postmeta><wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key><wp:meta_value><![CDATA[Ceramic Vase]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[Ceramic Vase]]></title>
+<link>https://example.com/?post_type=product&#038;p=104</link>
+<pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?post_type=product&#038;p=104</guid>
+<description></description>
+<content:encoded><![CDATA[<p>A sculptural matte-glazed vase with a gently tapered neck, equally at home holding a single stem or a generous armful of branches. The chalky finish catches the light beautifully.</p>
+<p>Thrown in small batches, each vase carries the subtle marks of the maker's hand. Watertight and ready for fresh or dried arrangements.</p>]]></content:encoded>
+<excerpt:encoded><![CDATA[Sculptural matte-glazed vase, thrown in small batches.]]></excerpt:encoded>
+<wp:post_id>104</wp:post_id>
+<wp:post_date><![CDATA[2026-01-12 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-12 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[open]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[ceramic-vase]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[product]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="product_cat" nicename="decor"><![CDATA[Decor]]></category>
+<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+<category domain="product_visibility" nicename="featured"><![CDATA[featured]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_sku]]></wp:meta_key><wp:meta_value><![CDATA[MS-VS-04]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_regular_price]]></wp:meta_key><wp:meta_value><![CDATA[34]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_price]]></wp:meta_key><wp:meta_value><![CDATA[34]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_stock_status]]></wp:meta_key><wp:meta_value><![CDATA[instock]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key><wp:meta_value><![CDATA[no]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_virtual]]></wp:meta_key><wp:meta_value><![CDATA[no]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_downloadable]]></wp:meta_key><wp:meta_value><![CDATA[no]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[total_sales]]></wp:meta_key><wp:meta_value><![CDATA[30]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key><wp:meta_value><![CDATA[304]]></wp:meta_value></wp:postmeta>
+</item>
+
+<item>
+<title><![CDATA[Wool Blanket image]]></title>
+<link>https://example.com/?p=305</link>
+<pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/storefront/images/wool-blanket.jpg</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>305</wp:post_id>
+<wp:post_date><![CDATA[2026-01-12 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-12 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[wool-blanket-image]]></wp:post_name>
+<wp:status><![CDATA[inherit]]></wp:status>
+<wp:post_parent>105</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[attachment]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/storefront/images/wool-blanket.jpg]]></wp:attachment_url>
+<wp:postmeta><wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key><wp:meta_value><![CDATA[Wool Blanket]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[Wool Blanket]]></title>
+<link>https://example.com/?post_type=product&#038;p=105</link>
+<pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?post_type=product&#038;p=105</guid>
+<description></description>
+<content:encoded><![CDATA[<p>Pure lambswool, woven into a generously sized throw with a soft herringbone weave and neatly fringed edges. Light enough to drape, warm enough for the coldest evenings.</p>
+<p>Naturally insulating and beautifully tactile, it is the kind of blanket that quietly becomes everyone's favourite spot in the house.</p>]]></content:encoded>
+<excerpt:encoded><![CDATA[Pure lambswool herringbone throw with fringed edges.]]></excerpt:encoded>
+<wp:post_id>105</wp:post_id>
+<wp:post_date><![CDATA[2026-01-12 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-12 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[open]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[wool-blanket]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[product]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="product_cat" nicename="living"><![CDATA[Living]]></category>
+<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_sku]]></wp:meta_key><wp:meta_value><![CDATA[MS-BL-05]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_regular_price]]></wp:meta_key><wp:meta_value><![CDATA[69]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_price]]></wp:meta_key><wp:meta_value><![CDATA[69]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_stock_status]]></wp:meta_key><wp:meta_value><![CDATA[instock]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key><wp:meta_value><![CDATA[no]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_virtual]]></wp:meta_key><wp:meta_value><![CDATA[no]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_downloadable]]></wp:meta_key><wp:meta_value><![CDATA[no]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[total_sales]]></wp:meta_key><wp:meta_value><![CDATA[12]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key><wp:meta_value><![CDATA[305]]></wp:meta_value></wp:postmeta>
+</item>
+
+<item>
+<title><![CDATA[Brass Candle Holder image]]></title>
+<link>https://example.com/?p=306</link>
+<pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/storefront/images/brass-candle-holder.jpg</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>306</wp:post_id>
+<wp:post_date><![CDATA[2026-01-12 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-12 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[brass-candle-holder-image]]></wp:post_name>
+<wp:status><![CDATA[inherit]]></wp:status>
+<wp:post_parent>106</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[attachment]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/storefront/images/brass-candle-holder.jpg]]></wp:attachment_url>
+<wp:postmeta><wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key><wp:meta_value><![CDATA[Brass Candle Holder]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[Brass Candle Holder]]></title>
+<link>https://example.com/?post_type=product&#038;p=106</link>
+<pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?post_type=product&#038;p=106</guid>
+<description></description>
+<content:encoded><![CDATA[<p>A slender solid-brass candle holder with a weighted base, designed for standard dinner candles. The warm metal develops a living patina over time, growing richer with use.</p>
+<p>Sold individually so you can cluster a few at different heights, or let one stand alone on a mantel or windowsill.</p>]]></content:encoded>
+<excerpt:encoded><![CDATA[Slender solid-brass candle holder with a weighted base.]]></excerpt:encoded>
+<wp:post_id>106</wp:post_id>
+<wp:post_date><![CDATA[2026-01-12 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-12 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[open]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[brass-candle-holder]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[product]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="product_cat" nicename="decor"><![CDATA[Decor]]></category>
+<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_sku]]></wp:meta_key><wp:meta_value><![CDATA[MS-CH-06]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_regular_price]]></wp:meta_key><wp:meta_value><![CDATA[22]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_price]]></wp:meta_key><wp:meta_value><![CDATA[22]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_stock_status]]></wp:meta_key><wp:meta_value><![CDATA[instock]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key><wp:meta_value><![CDATA[no]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_virtual]]></wp:meta_key><wp:meta_value><![CDATA[no]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_downloadable]]></wp:meta_key><wp:meta_value><![CDATA[no]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[total_sales]]></wp:meta_key><wp:meta_value><![CDATA[53]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key><wp:meta_value><![CDATA[306]]></wp:meta_value></wp:postmeta>
+</item>
+
+<item>
+<title><![CDATA[Linen Apron image]]></title>
+<link>https://example.com/?p=307</link>
+<pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/storefront/images/linen-apron.jpg</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>307</wp:post_id>
+<wp:post_date><![CDATA[2026-01-12 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-12 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[linen-apron-image]]></wp:post_name>
+<wp:status><![CDATA[inherit]]></wp:status>
+<wp:post_parent>107</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[attachment]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/storefront/images/linen-apron.jpg]]></wp:attachment_url>
+<wp:postmeta><wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key><wp:meta_value><![CDATA[Linen Apron]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[Linen Apron]]></title>
+<link>https://example.com/?post_type=product&#038;p=107</link>
+<pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?post_type=product&#038;p=107</guid>
+<description></description>
+<content:encoded><![CDATA[<p>A hard-wearing linen apron with an adjustable neck strap, long waist ties and a roomy front pocket. Cut for a relaxed fit and softened so it feels worn-in from the first wear.</p>
+<p>Perfect for long sessions in the kitchen, the studio or the garden, and smart enough to keep on when guests arrive.</p>]]></content:encoded>
+<excerpt:encoded><![CDATA[Hard-wearing linen apron with adjustable strap and front pocket.]]></excerpt:encoded>
+<wp:post_id>107</wp:post_id>
+<wp:post_date><![CDATA[2026-01-12 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-12 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[open]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[linen-apron]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[product]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="product_cat" nicename="kitchen"><![CDATA[Kitchen]]></category>
+<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_sku]]></wp:meta_key><wp:meta_value><![CDATA[MS-AP-07]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_regular_price]]></wp:meta_key><wp:meta_value><![CDATA[26]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_price]]></wp:meta_key><wp:meta_value><![CDATA[26]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_stock_status]]></wp:meta_key><wp:meta_value><![CDATA[instock]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key><wp:meta_value><![CDATA[no]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_virtual]]></wp:meta_key><wp:meta_value><![CDATA[no]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_downloadable]]></wp:meta_key><wp:meta_value><![CDATA[no]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[total_sales]]></wp:meta_key><wp:meta_value><![CDATA[9]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key><wp:meta_value><![CDATA[307]]></wp:meta_value></wp:postmeta>
+</item>
+
+<item>
+<title><![CDATA[Woven Basket image]]></title>
+<link>https://example.com/?p=308</link>
+<pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/storefront/images/woven-basket.jpg</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>308</wp:post_id>
+<wp:post_date><![CDATA[2026-01-12 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-12 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[woven-basket-image]]></wp:post_name>
+<wp:status><![CDATA[inherit]]></wp:status>
+<wp:post_parent>108</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[attachment]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/storefront/images/woven-basket.jpg]]></wp:attachment_url>
+<wp:postmeta><wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key><wp:meta_value><![CDATA[Woven Basket]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[Woven Basket]]></title>
+<link>https://example.com/?post_type=product&#038;p=108</link>
+<pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?post_type=product&#038;p=108</guid>
+<description></description>
+<content:encoded><![CDATA[<p>A handwoven seagrass basket with sturdy rolled handles, ready to corral blankets, firewood, laundry or a leafy plant. Natural fibres mean every basket has its own subtle character.</p>
+<p>Lightweight yet hard-wearing, it brings a little warmth and texture to any corner that needs tidying.</p>]]></content:encoded>
+<excerpt:encoded><![CDATA[Handwoven seagrass basket with rolled handles.]]></excerpt:encoded>
+<wp:post_id>108</wp:post_id>
+<wp:post_date><![CDATA[2026-01-12 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-12 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[open]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[woven-basket]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[product]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="product_cat" nicename="decor"><![CDATA[Decor]]></category>
+<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+<category domain="product_visibility" nicename="featured"><![CDATA[featured]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_sku]]></wp:meta_key><wp:meta_value><![CDATA[MS-BK-08]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_regular_price]]></wp:meta_key><wp:meta_value><![CDATA[38]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_price]]></wp:meta_key><wp:meta_value><![CDATA[38]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_stock_status]]></wp:meta_key><wp:meta_value><![CDATA[instock]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key><wp:meta_value><![CDATA[no]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_virtual]]></wp:meta_key><wp:meta_value><![CDATA[no]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_downloadable]]></wp:meta_key><wp:meta_value><![CDATA[no]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[total_sales]]></wp:meta_key><wp:meta_value><![CDATA[37]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key><wp:meta_value><![CDATA[308]]></wp:meta_value></wp:postmeta>
+</item>
+
+<item>
+<title><![CDATA[Living image]]></title>
+<link>https://example.com/?p=311</link>
+<pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/storefront/images/category-living.jpg</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>311</wp:post_id>
+<wp:post_date><![CDATA[2026-01-12 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-12 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[category-living]]></wp:post_name>
+<wp:status><![CDATA[inherit]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[attachment]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/storefront/images/category-living.jpg]]></wp:attachment_url>
+<wp:postmeta><wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key><wp:meta_value><![CDATA[Living]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[Kitchen image]]></title>
+<link>https://example.com/?p=312</link>
+<pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/storefront/images/category-kitchen.jpg</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>312</wp:post_id>
+<wp:post_date><![CDATA[2026-01-12 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-12 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[category-kitchen]]></wp:post_name>
+<wp:status><![CDATA[inherit]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[attachment]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/storefront/images/category-kitchen.jpg]]></wp:attachment_url>
+<wp:postmeta><wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key><wp:meta_value><![CDATA[Kitchen]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[Decor image]]></title>
+<link>https://example.com/?p=313</link>
+<pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/storefront/images/category-decor.jpg</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>313</wp:post_id>
+<wp:post_date><![CDATA[2026-01-12 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-12 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[category-decor]]></wp:post_name>
+<wp:status><![CDATA[inherit]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[attachment]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/storefront/images/category-decor.jpg]]></wp:attachment_url>
+<wp:postmeta><wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key><wp:meta_value><![CDATA[Decor]]></wp:meta_value></wp:postmeta>
+</item>
+
+<item>
+<title><![CDATA[Homepage]]></title>
+<link>https://example.com/?page_id=501</link>
+<pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?page_id=501</guid>
+<description></description>
+<content:encoded><![CDATA[<p>Welcome to Maple &amp; Stone, a small shop of beautifully made homeware and decor for considered living. Browse the collections below.</p>]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>501</wp:post_id>
+<wp:post_date><![CDATA[2026-01-12 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-12 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[homepage]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[page]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<wp:postmeta><wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key><wp:meta_value><![CDATA[template-homepage.php]]></wp:meta_value></wp:postmeta>
+</item>
+
+<item>
+<title><![CDATA[About]]></title>
+<link>https://example.com/?page_id=502</link>
+<pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?page_id=502</guid>
+<description></description>
+<content:encoded><![CDATA[<p>Maple &amp; Stone began at a kitchen table with a simple idea: surround yourself with fewer, better things and everyday life feels a little richer.</p>
+<p>We work with small makers and family-run workshops to bring you homeware built to be used and loved for years, not seasons. Natural materials, honest craftsmanship, and quiet design that never shouts.</p>
+<p>Thank you for supporting independent making. We are glad you are here.</p>]]></content:encoded>
+<excerpt:encoded><![CDATA[Fewer, better things, made to be used and loved for years.]]></excerpt:encoded>
+<wp:post_id>502</wp:post_id>
+<wp:post_date><![CDATA[2026-01-12 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-12 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[about]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[page]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+</item>
+
+<item>
+<title><![CDATA[Home]]></title>
+<link>https://example.com/?p=401</link>
+<pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?p=401</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>401</wp:post_id>
+<wp:post_date><![CDATA[2026-01-12 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-12 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[menu-item-401]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>1</wp:menu_order>
+<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[post_type]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key><wp:meta_value><![CDATA[0]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[501]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[page]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key><wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+</item>
+
+<item>
+<title><![CDATA[Shop]]></title>
+<link>https://example.com/?p=402</link>
+<pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?p=402</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>402</wp:post_id>
+<wp:post_date><![CDATA[2026-01-12 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-12 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[menu-item-402]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>2</wp:menu_order>
+<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[custom]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key><wp:meta_value><![CDATA[0]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[402]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[custom]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key><wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key><wp:meta_value><![CDATA[/shop/]]></wp:meta_value></wp:postmeta>
+</item>
+
+<item>
+<title><![CDATA[Living]]></title>
+<link>https://example.com/?p=403</link>
+<pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?p=403</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>403</wp:post_id>
+<wp:post_date><![CDATA[2026-01-12 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-12 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[menu-item-403]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>3</wp:menu_order>
+<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[taxonomy]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key><wp:meta_value><![CDATA[0]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[31]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[product_cat]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key><wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+</item>
+
+<item>
+<title><![CDATA[Kitchen]]></title>
+<link>https://example.com/?p=404</link>
+<pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?p=404</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>404</wp:post_id>
+<wp:post_date><![CDATA[2026-01-12 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-12 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[menu-item-404]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>4</wp:menu_order>
+<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[taxonomy]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key><wp:meta_value><![CDATA[0]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[32]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[product_cat]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key><wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+</item>
+
+<item>
+<title><![CDATA[Decor]]></title>
+<link>https://example.com/?p=405</link>
+<pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?p=405</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>405</wp:post_id>
+<wp:post_date><![CDATA[2026-01-12 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-12 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[menu-item-405]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>5</wp:menu_order>
+<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[taxonomy]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key><wp:meta_value><![CDATA[0]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[33]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[product_cat]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key><wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+</item>
+
+<item>
+<title><![CDATA[About]]></title>
+<link>https://example.com/?p=406</link>
+<pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?p=406</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>406</wp:post_id>
+<wp:post_date><![CDATA[2026-01-12 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-12 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[menu-item-406]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>6</wp:menu_order>
+<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[post_type]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key><wp:meta_value><![CDATA[0]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[502]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[page]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key><wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+</item>
+
+</channel>
+</rss>

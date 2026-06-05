@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+<channel>
+<title>Lumen Consulting</title>
+<link>https://example.com</link>
+<description>Strategy, brand and technology consultancy</description>
+<pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+<language>en-US</language>
+<wp:wxr_version>1.2</wp:wxr_version>
+<wp:base_site_url>https://example.com</wp:base_site_url>
+<wp:base_blog_url>https://example.com</wp:base_blog_url>
+<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[admin@example.com]]></wp:author_email><wp:author_display_name><![CDATA[Lumen Consulting]]></wp:author_display_name><wp:author_first_name><![CDATA[Lumen]]></wp:author_first_name><wp:author_last_name><![CDATA[Consulting]]></wp:author_last_name></wp:author>
+<wp:category><wp:term_id>11</wp:term_id><wp:category_nicename><![CDATA[strategy]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Strategy]]></wp:cat_name></wp:category>
+<wp:category><wp:term_id>12</wp:term_id><wp:category_nicename><![CDATA[marketing]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Marketing]]></wp:cat_name></wp:category>
+<wp:category><wp:term_id>13</wp:term_id><wp:category_nicename><![CDATA[technology]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Technology]]></wp:cat_name></wp:category>
+<wp:category><wp:term_id>14</wp:term_id><wp:category_nicename><![CDATA[branding]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Branding]]></wp:cat_name></wp:category>
+<wp:category><wp:term_id>15</wp:term_id><wp:category_nicename><![CDATA[insights]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Insights]]></wp:cat_name></wp:category>
+<wp:category><wp:term_id>16</wp:term_id><wp:category_nicename><![CDATA[leadership]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Leadership]]></wp:cat_name></wp:category>
+<wp:term><wp:term_id>20</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary-menu]]></wp:term_slug><wp:term_name><![CDATA[Primary Menu]]></wp:term_name></wp:term>
+<generator>https://wordpress.org/?v=6.7</generator>
+
+<item>
+<title><![CDATA[Building a Digital Strategy That Lasts image]]></title>
+<link>https://example.com/?p=301</link>
+<pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/zakra/images/digital-strategy.jpg</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>301</wp:post_id>
+<wp:post_date><![CDATA[2026-01-12 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-12 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[digital-strategy-image]]></wp:post_name>
+<wp:status><![CDATA[inherit]]></wp:status>
+<wp:post_parent>101</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[attachment]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/zakra/images/digital-strategy.jpg]]></wp:attachment_url>
+<wp:postmeta><wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key><wp:meta_value><![CDATA[Building a Digital Strategy That Lasts]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[Building a Digital Strategy That Lasts]]></title>
+<link>https://example.com/?p=101</link>
+<pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?p=101</guid>
+<description></description>
+<content:encoded><![CDATA[<p>Too many digital strategies are really just a list of tactics in disguise. A new website here, a campaign there, a tool everyone forgets to use. A strategy that lasts starts with a clear answer to one question: what are we actually trying to change?</p>
+
+<h2>Begin with outcomes, not channels</h2>
+<p>Before debating platforms or budgets, we help clients define the business outcomes that matter, the customer behaviours that drive them, and the few metrics worth watching. Everything else follows from there.</p>
+
+<h2>Build for the next three years</h2>
+<p>Technology and channels will change, but your customers' underlying needs move far more slowly. A durable strategy invests in the things that compound, your data, your brand, and your team's capability, instead of chasing every new platform.</p>
+
+<p>The result is a roadmap your whole organisation can rally behind, one that still makes sense long after the launch buzz has faded.</p>]]></content:encoded>
+<excerpt:encoded><![CDATA[A strategy that lasts starts with a clear answer to one question: what are we actually trying to change?]]></excerpt:encoded>
+<wp:post_id>101</wp:post_id>
+<wp:post_date><![CDATA[2026-01-12 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-12 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[open]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[digital-strategy]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[post]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="category" nicename="strategy"><![CDATA[Strategy]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key><wp:meta_value><![CDATA[301]]></wp:meta_value></wp:postmeta>
+</item>
+
+<item>
+<title><![CDATA[Why Customer Research Should Come First image]]></title>
+<link>https://example.com/?p=302</link>
+<pubDate>Tue, 27 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/zakra/images/customer-research.jpg</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>302</wp:post_id>
+<wp:post_date><![CDATA[2026-01-27 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-27 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[customer-research-image]]></wp:post_name>
+<wp:status><![CDATA[inherit]]></wp:status>
+<wp:post_parent>102</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[attachment]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/zakra/images/customer-research.jpg]]></wp:attachment_url>
+<wp:postmeta><wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key><wp:meta_value><![CDATA[Why Customer Research Should Come First]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[Why Customer Research Should Come First]]></title>
+<link>https://example.com/?p=102</link>
+<pubDate>Tue, 27 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?p=102</guid>
+<description></description>
+<content:encoded><![CDATA[<p>It is tempting to skip research and jump straight to building. We get it, research feels slow when everyone is eager to ship. But the most expensive mistakes we see all share the same root cause: a confident assumption about customers that was never tested.</p>
+
+<h2>Talk to people before you talk to designers</h2>
+<p>A handful of honest conversations with real customers will reshape a project more than any internal brainstorm. We listen for the problems people actually have, not the features they think they want.</p>
+
+<h2>Research is a habit, not a phase</h2>
+<p>The teams that win treat research as something they do continuously, woven into every release. Small, frequent learning beats one big study that gathers dust on a shared drive.</p>
+
+<p>Start small, stay curious, and let what you hear change your mind. That is where the best products come from.</p>]]></content:encoded>
+<excerpt:encoded><![CDATA[The most expensive mistakes all share the same root cause: a confident assumption about customers that was never tested.]]></excerpt:encoded>
+<wp:post_id>102</wp:post_id>
+<wp:post_date><![CDATA[2026-01-27 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-27 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[open]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[customer-research]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[post]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="category" nicename="marketing"><![CDATA[Marketing]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key><wp:meta_value><![CDATA[302]]></wp:meta_value></wp:postmeta>
+</item>
+
+<item>
+<title><![CDATA[Choosing the Right Tech Stack for Growth image]]></title>
+<link>https://example.com/?p=303</link>
+<pubDate>Wed, 11 Feb 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/zakra/images/tech-stack-growth.jpg</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>303</wp:post_id>
+<wp:post_date><![CDATA[2026-02-11 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-02-11 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[tech-stack-growth-image]]></wp:post_name>
+<wp:status><![CDATA[inherit]]></wp:status>
+<wp:post_parent>103</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[attachment]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/zakra/images/tech-stack-growth.jpg]]></wp:attachment_url>
+<wp:postmeta><wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key><wp:meta_value><![CDATA[Choosing the Right Tech Stack for Growth]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[Choosing the Right Tech Stack for Growth]]></title>
+<link>https://example.com/?p=103</link>
+<pubDate>Wed, 11 Feb 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?p=103</guid>
+<description></description>
+<content:encoded><![CDATA[<p>There is no perfect tech stack, only the right one for where your business is heading. The shiniest tools are rarely the answer, and the cheapest ones often cost the most over time.</p>
+
+<h2>Optimise for change, not perfection</h2>
+<p>Early-stage teams need to move fast and stay flexible. We favour boring, well-supported technology that your team can hire for and that will not box you in two years from now.</p>
+
+<h2>Buy what is undifferentiated, build what sets you apart</h2>
+<p>Payments, email, analytics, authentication, buy these. Save your engineering energy for the parts of the product that genuinely make you different. That single principle prevents a surprising amount of wasted effort.</p>
+
+<p>Choose deliberately, document your reasoning, and revisit it as you grow. A good stack quietly gets out of the way so the team can focus on customers.</p>]]></content:encoded>
+<excerpt:encoded><![CDATA[There is no perfect tech stack, only the right one for where your business is heading.]]></excerpt:encoded>
+<wp:post_id>103</wp:post_id>
+<wp:post_date><![CDATA[2026-02-11 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-02-11 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[open]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[tech-stack-growth]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[post]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="category" nicename="technology"><![CDATA[Technology]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key><wp:meta_value><![CDATA[303]]></wp:meta_value></wp:postmeta>
+</item>
+
+<item>
+<title><![CDATA[Five Signs It's Time to Rebrand image]]></title>
+<link>https://example.com/?p=304</link>
+<pubDate>Thu, 26 Feb 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/zakra/images/time-to-rebrand.jpg</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>304</wp:post_id>
+<wp:post_date><![CDATA[2026-02-26 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-02-26 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[time-to-rebrand-image]]></wp:post_name>
+<wp:status><![CDATA[inherit]]></wp:status>
+<wp:post_parent>104</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[attachment]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/zakra/images/time-to-rebrand.jpg]]></wp:attachment_url>
+<wp:postmeta><wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key><wp:meta_value><![CDATA[Five Signs It's Time to Rebrand]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[Five Signs It's Time to Rebrand]]></title>
+<link>https://example.com/?p=104</link>
+<pubDate>Thu, 26 Feb 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?p=104</guid>
+<description></description>
+<content:encoded><![CDATA[<p>A rebrand is a big undertaking, so it should never be done on a whim. But there are moments when keeping the old identity quietly holds a business back. Here are the signals we watch for.</p>
+
+<h2>The brand no longer matches the business</h2>
+<p>You have outgrown your original story. The products, the audience, or the ambition have moved on, but the logo and messaging are still describing the company you used to be.</p>
+
+<h2>You are embarrassed to share your own website</h2>
+<p>If the team hesitates before sending a link to a prospect, that is data. Pride in your brand is a competitive advantage, and the lack of it shows.</p>
+
+<p>Other signs include inconsistent visuals across channels, a name that no longer fits, and a market that has shifted around you. One sign is worth watching. Three or more, and it is time to talk.</p>]]></content:encoded>
+<excerpt:encoded><![CDATA[There are moments when keeping the old identity quietly holds a business back. Here are the signals we watch for.]]></excerpt:encoded>
+<wp:post_id>104</wp:post_id>
+<wp:post_date><![CDATA[2026-02-26 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-02-26 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[open]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[time-to-rebrand]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[post]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="category" nicename="branding"><![CDATA[Branding]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key><wp:meta_value><![CDATA[304]]></wp:meta_value></wp:postmeta>
+</item>
+
+<item>
+<title><![CDATA[Turning Data Into Decisions image]]></title>
+<link>https://example.com/?p=305</link>
+<pubDate>Sun, 15 Mar 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/zakra/images/data-into-decisions.jpg</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>305</wp:post_id>
+<wp:post_date><![CDATA[2026-03-15 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-03-15 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[data-into-decisions-image]]></wp:post_name>
+<wp:status><![CDATA[inherit]]></wp:status>
+<wp:post_parent>105</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[attachment]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/zakra/images/data-into-decisions.jpg]]></wp:attachment_url>
+<wp:postmeta><wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key><wp:meta_value><![CDATA[Turning Data Into Decisions]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[Turning Data Into Decisions]]></title>
+<link>https://example.com/?p=105</link>
+<pubDate>Sun, 15 Mar 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?p=105</guid>
+<description></description>
+<content:encoded><![CDATA[<p>Most organisations are not short on data. They are short on decisions. Dashboards multiply, reports pile up, and yet the same questions keep coming back to the same meetings unanswered.</p>
+
+<h2>Fewer metrics, chosen on purpose</h2>
+<p>We help teams cut their reporting down to the handful of numbers that actually drive the business. When everyone watches the same few metrics, conversations get sharper and faster.</p>
+
+<h2>Pair every number with an owner</h2>
+<p>A metric without an owner is just trivia. We connect each key measure to a person and a decision it informs, so data leads to action instead of admiration.</p>
+
+<p>Good analytics is not about collecting more, it is about deciding better. Start with the decision, then work backwards to the data you truly need.</p>]]></content:encoded>
+<excerpt:encoded><![CDATA[Most organisations are not short on data. They are short on decisions.]]></excerpt:encoded>
+<wp:post_id>105</wp:post_id>
+<wp:post_date><![CDATA[2026-03-15 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-03-15 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[open]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[data-into-decisions]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[post]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="category" nicename="insights"><![CDATA[Insights]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key><wp:meta_value><![CDATA[305]]></wp:meta_value></wp:postmeta>
+</item>
+
+<item>
+<title><![CDATA[Leading Change in a Hybrid Team image]]></title>
+<link>https://example.com/?p=306</link>
+<pubDate>Tue, 31 Mar 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/zakra/images/leading-hybrid-team.jpg</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>306</wp:post_id>
+<wp:post_date><![CDATA[2026-03-31 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-03-31 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[leading-hybrid-team-image]]></wp:post_name>
+<wp:status><![CDATA[inherit]]></wp:status>
+<wp:post_parent>106</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[attachment]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/zakra/images/leading-hybrid-team.jpg]]></wp:attachment_url>
+<wp:postmeta><wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key><wp:meta_value><![CDATA[Leading Change in a Hybrid Team]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[Leading Change in a Hybrid Team]]></title>
+<link>https://example.com/?p=106</link>
+<pubDate>Tue, 31 Mar 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?p=106</guid>
+<description></description>
+<content:encoded><![CDATA[<p>Leading change was never easy. Doing it across a team that is part in the office, part at home, and spread across time zones adds a whole new layer. The old playbook of momentum-by-presence simply does not apply.</p>
+
+<h2>Over-communicate the why</h2>
+<p>When people cannot read the room, clarity has to come from words. We coach leaders to repeat the reasoning behind a change far more often than feels natural, in writing, where everyone can find it.</p>
+
+<h2>Make progress visible</h2>
+<p>Hybrid teams lose the casual signals that things are moving. Shared, lightweight rituals, a weekly note, a visible roadmap, a quick demo, replace the corridor conversations that used to carry the work forward.</p>
+
+<p>Change still comes down to trust. Build it deliberately, and a distributed team can move just as decisively as one in a single room.</p>]]></content:encoded>
+<excerpt:encoded><![CDATA[Leading change across a hybrid team adds a whole new layer. The old playbook of momentum-by-presence does not apply.]]></excerpt:encoded>
+<wp:post_id>106</wp:post_id>
+<wp:post_date><![CDATA[2026-03-31 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-03-31 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[open]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[leading-hybrid-team]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[post]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="category" nicename="leadership"><![CDATA[Leadership]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key><wp:meta_value><![CDATA[306]]></wp:meta_value></wp:postmeta>
+</item>
+
+<item>
+<title><![CDATA[Home]]></title>
+<link>https://example.com/?p=501</link>
+<pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?p=501</guid>
+<description></description>
+<content:encoded><![CDATA[<p style="text-align:center;"><img src="https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/zakra/images/lumen-hero.jpg" alt="Lumen Consulting" /></p>
+
+<h2 style="text-align:center;">We help ambitious teams turn strategy into momentum</h2>
+<p style="text-align:center;">Lumen Consulting partners with founders and leadership teams to sharpen their strategy, strengthen their brand, and ship the technology that moves the business forward.</p>
+
+<h3>What we do</h3>
+<p><strong>Strategy &amp; Growth</strong> &mdash; We help you find the few decisions that matter most and build a roadmap your whole team can rally behind.</p>
+<p><strong>Brand &amp; Marketing</strong> &mdash; From positioning to launch, we shape a brand that earns attention and trust in a crowded market.</p>
+<p><strong>Technology &amp; Delivery</strong> &mdash; We choose pragmatic technology and help your team ship it, without the buzzwords or the bloat.</p>
+
+<h3>Why teams work with us</h3>
+<p>We are a small, senior team. You work directly with the people doing the thinking, not a layer of account managers. We measure ourselves on outcomes, and we leave your team more capable than we found it.</p>
+
+<p style="text-align:center;"><a href="/contact/">Start a conversation &rarr;</a></p>]]></content:encoded>
+<excerpt:encoded><![CDATA[We help ambitious teams turn strategy into momentum.]]></excerpt:encoded>
+<wp:post_id>501</wp:post_id>
+<wp:post_date><![CDATA[2026-01-12 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-12 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[home]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[page]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+</item>
+
+<item>
+<title><![CDATA[Services]]></title>
+<link>https://example.com/?p=502</link>
+<pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?p=502</guid>
+<description></description>
+<content:encoded><![CDATA[<p style="text-align:center;"><img src="https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/zakra/images/services.jpg" alt="What we do" /></p>
+
+<p>We work in focused engagements with a clear goal and a defined end. No open-ended retainers, no mystery. Here is how we can help.</p>
+
+<h2>Strategy &amp; Growth</h2>
+<p>Market and customer research, positioning, and a prioritised roadmap. We help you decide where to play and how to win, then make sure the plan survives contact with reality.</p>
+
+<h2>Brand &amp; Marketing</h2>
+<p>Brand strategy, identity, messaging, and go-to-market support. We build brands that are clear, distinctive, and consistent across every touchpoint.</p>
+
+<h2>Technology &amp; Delivery</h2>
+<p>Architecture reviews, tech selection, and hands-on delivery support. We help you choose pragmatic tools and ship them with a team that grows more capable along the way.</p>
+
+<h2>Advisory</h2>
+<p>Ongoing, lightweight access to a senior sounding board for founders and leadership teams navigating a period of change.</p>]]></content:encoded>
+<excerpt:encoded><![CDATA[We work in focused engagements with a clear goal and a defined end.]]></excerpt:encoded>
+<wp:post_id>502</wp:post_id>
+<wp:post_date><![CDATA[2026-01-12 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-12 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[services]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[page]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+</item>
+
+<item>
+<title><![CDATA[About]]></title>
+<link>https://example.com/?p=503</link>
+<pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?p=503</guid>
+<description></description>
+<content:encoded><![CDATA[<p style="text-align:center;"><img src="https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/zakra/images/about-team.jpg" alt="Our team" /></p>
+
+<p>Lumen Consulting was founded on a simple belief: good advice should make things clearer, not more complicated. We are a small, senior team of strategists, brand thinkers, and technologists who have spent years building and growing companies of our own.</p>
+
+<h2>How we work</h2>
+<p>We embed alongside your team rather than handing over a report and walking away. We ask hard questions early, we write things down, and we care as much about leaving you capable as we do about the deliverable itself.</p>
+
+<h2>What we believe</h2>
+<p>Clarity beats cleverness. Outcomes beat output. And the best strategy is one your team actually understands and believes in. Everything we do comes back to those three ideas.</p>
+
+<p>If that sounds like the kind of partner you have been looking for, we would love to hear from you.</p>]]></content:encoded>
+<excerpt:encoded><![CDATA[Good advice should make things clearer, not more complicated.]]></excerpt:encoded>
+<wp:post_id>503</wp:post_id>
+<wp:post_date><![CDATA[2026-01-12 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-12 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[about]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[page]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+</item>
+
+<item>
+<title><![CDATA[Contact]]></title>
+<link>https://example.com/?p=504</link>
+<pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?p=504</guid>
+<description></description>
+<content:encoded><![CDATA[<p>Have a project in mind, or just want a second opinion? We would love to hear from you. Tell us a little about what you are working on and we will get back to you within two business days.</p>
+
+<h2>Get in touch</h2>
+<p>Email: <a href="mailto:hello@lumenconsulting.example">hello@lumenconsulting.example</a><br />
+Phone: +31 (0)20 123 4567</p>
+
+<h2>Visit us</h2>
+<p>Keizersgracht 123<br />
+1015 CJ Amsterdam<br />
+The Netherlands</p>
+
+<p>Prefer to keep it simple? Drop us a line and we will set up a short call to see if we are a good fit.</p>]]></content:encoded>
+<excerpt:encoded><![CDATA[Have a project in mind, or just want a second opinion? We would love to hear from you.]]></excerpt:encoded>
+<wp:post_id>504</wp:post_id>
+<wp:post_date><![CDATA[2026-01-12 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-12 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[contact]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[page]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+</item>
+
+<item>
+<title><![CDATA[Insights]]></title>
+<link>https://example.com/?p=505</link>
+<pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?p=505</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>505</wp:post_id>
+<wp:post_date><![CDATA[2026-01-12 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-12 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[insights]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[page]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+</item>
+
+<item>
+<title><![CDATA[Home]]></title>
+<link>https://example.com/?p=401</link>
+<pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?p=401</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>401</wp:post_id>
+<wp:post_date><![CDATA[2026-01-12 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-12 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[menu-item-401]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>1</wp:menu_order>
+<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[post_type]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key><wp:meta_value><![CDATA[0]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[501]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[page]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key><wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+</item>
+
+<item>
+<title><![CDATA[Services]]></title>
+<link>https://example.com/?p=402</link>
+<pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?p=402</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>402</wp:post_id>
+<wp:post_date><![CDATA[2026-01-12 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-12 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[menu-item-402]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>2</wp:menu_order>
+<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[post_type]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key><wp:meta_value><![CDATA[0]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[502]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[page]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key><wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+</item>
+
+<item>
+<title><![CDATA[About]]></title>
+<link>https://example.com/?p=403</link>
+<pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?p=403</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>403</wp:post_id>
+<wp:post_date><![CDATA[2026-01-12 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-12 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[menu-item-403]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>3</wp:menu_order>
+<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[post_type]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key><wp:meta_value><![CDATA[0]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[503]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[page]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key><wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+</item>
+
+<item>
+<title><![CDATA[Insights]]></title>
+<link>https://example.com/?p=404</link>
+<pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?p=404</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>404</wp:post_id>
+<wp:post_date><![CDATA[2026-01-12 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-12 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[menu-item-404]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>4</wp:menu_order>
+<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[post_type]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key><wp:meta_value><![CDATA[0]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[505]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[page]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key><wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+</item>
+
+<item>
+<title><![CDATA[Contact]]></title>
+<link>https://example.com/?p=405</link>
+<pubDate>Mon, 12 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?p=405</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>405</wp:post_id>
+<wp:post_date><![CDATA[2026-01-12 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-12 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[menu-item-405]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>5</wp:menu_order>
+<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[post_type]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key><wp:meta_value><![CDATA[0]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[504]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[page]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key><wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+</item>
+
+</channel>
+</rss>

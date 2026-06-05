@@ -1,15 +1,44 @@
 {
-    "$schema": "https://playground.wordpress.net/blueprint-schema.json",
-    "steps": [
-        {
-            "step": "installTheme",
-            "themeData": {
-                "resource": "url",
-                "url": "https://github.com/TomsProgramming/thema-markt/raw/refs/heads/main/test-themes/storefront/storefront.4.6.2.zip"
-            },
-            "options": {
-                "activate": true
-            }
-        }
-    ]
+  "$schema": "https://playground.wordpress.net/blueprint-schema.json",
+  "login": true,
+  "plugins": ["woocommerce"],
+  "siteOptions": {
+    "blogname": "Maple & Stone",
+    "blogdescription": "Homeware and decor for considered living",
+    "permalink_structure": "/%postname%/",
+    "posts_per_page": "12"
+  },
+  "steps": [
+    {
+      "step": "installTheme",
+      "themeData": {
+        "resource": "url",
+        "url": "https://github.com/TomsProgramming/thema-markt/raw/refs/heads/main/test-themes/storefront/storefront.4.6.2.zip"
+      },
+      "options": { "activate": true }
+    },
+    {
+      "step": "importWxr",
+      "file": {
+        "resource": "url",
+        "url": "https://github.com/TomsProgramming/thema-markt/raw/refs/heads/main/demo-content/storefront/storefront-demo.xml"
+      }
+    },
+    {
+      "step": "setSiteOptions",
+      "options": {
+        "show_on_front": "page",
+        "page_on_front": "501",
+        "woocommerce_currency": "EUR",
+        "woocommerce_store_address": "Keizersgracht 123",
+        "woocommerce_store_city": "Amsterdam",
+        "woocommerce_default_country": "NL",
+        "woocommerce_currency_pos": "left_space"
+      }
+    },
+    {
+      "step": "runPHP",
+      "code": "<?php require_once '/wordpress/wp-load.php'; $menu = get_term_by('slug', 'primary-menu', 'nav_menu'); if ($menu) { $locations = get_theme_mod('nav_menu_locations', array()); $locations['primary'] = $menu->term_id; set_theme_mod('nav_menu_locations', $locations); } if (function_exists('wc_update_product_lookup_tables')) { wc_update_product_lookup_tables(); } flush_rewrite_rules();"
+    }
+  ]
 }

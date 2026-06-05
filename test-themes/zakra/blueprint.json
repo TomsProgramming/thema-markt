@@ -1,15 +1,39 @@
 {
-    "$schema": "https://playground.wordpress.net/blueprint-schema.json",
-    "steps": [
-        {
-            "step": "installTheme",
-            "themeData": {
-                "resource": "url",
-                "url": "https://github.com/TomsProgramming/thema-markt/raw/refs/heads/main/test-themes/zakra/zakra.4.2.1.zip"
-            },
-            "options": {
-                "activate": true
-            }
-        }
-    ]
+  "$schema": "https://playground.wordpress.net/blueprint-schema.json",
+  "login": true,
+  "siteOptions": {
+    "blogname": "Lumen Consulting",
+    "blogdescription": "Strategy, brand & technology consultancy",
+    "permalink_structure": "/%postname%/",
+    "posts_per_page": "9"
+  },
+  "steps": [
+    {
+      "step": "installTheme",
+      "themeData": {
+        "resource": "url",
+        "url": "https://github.com/TomsProgramming/thema-markt/raw/refs/heads/main/test-themes/zakra/zakra.4.2.1.zip"
+      },
+      "options": { "activate": true }
+    },
+    {
+      "step": "importWxr",
+      "file": {
+        "resource": "url",
+        "url": "https://github.com/TomsProgramming/thema-markt/raw/refs/heads/main/demo-content/zakra/zakra-demo.xml"
+      }
+    },
+    {
+      "step": "setSiteOptions",
+      "options": {
+        "show_on_front": "page",
+        "page_on_front": "501",
+        "page_for_posts": "505"
+      }
+    },
+    {
+      "step": "runPHP",
+      "code": "<?php require_once '/wordpress/wp-load.php'; $menu = get_term_by('slug', 'primary-menu', 'nav_menu'); if ($menu) { $locations = get_theme_mod('nav_menu_locations', array()); $locations['primary'] = $menu->term_id; set_theme_mod('nav_menu_locations', $locations); } flush_rewrite_rules();"
+    }
+  ]
 }
