@@ -574,7 +574,51 @@
 <dc:creator><![CDATA[admin]]></dc:creator>
 <guid isPermaLink="false">https://example.com/?page_id=501</guid>
 <description></description>
-<content:encoded><![CDATA[<p>Welcome to Maple &amp; Stone, a small shop of beautifully made homeware and decor for considered living. Browse the collections below.</p>]]></content:encoded>
+<content:encoded><![CDATA[<!-- wp:cover {"url":"https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/storefront/images/hero.jpg","dimRatio":30,"overlayColor":"black","minHeight":560,"align":"full"} -->
+<div class="wp-block-cover alignfull" style="min-height:560px"><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-30 has-background-dim"></span><img class="wp-block-cover__image-background" src="https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/storefront/images/hero.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container">
+<!-- wp:heading {"textAlign":"center","level":1,"textColor":"white","style":{"typography":{"fontSize":"50px","lineHeight":"1.1"}}} -->
+<h1 class="has-text-align-center has-white-color has-text-color" style="font-size:50px;line-height:1.1">Beautifully made things for everyday living</h1>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"align":"center","textColor":"white"} -->
+<p class="has-text-align-center has-white-color has-text-color">Homeware and decor from independent makers, chosen to be used and loved for years.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/shop/">Shop the collection</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"top":"40px","bottom":"20px"}}}} -->
+<div class="wp-block-columns alignwide" style="padding-top:40px;padding-bottom:20px"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"textAlign":"center","level":4} -->
+<h4 class="has-text-align-center">Free delivery over &euro;75</h4>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Carbon-neutral shipping across the Netherlands.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"textAlign":"center","level":4} -->
+<h4 class="has-text-align-center">Made to last</h4>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Natural materials and honest craftsmanship in every piece.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"textAlign":"center","level":4} -->
+<h4 class="has-text-align-center">Packed with care</h4>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Plastic-free packaging and a 30-day return promise.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:heading {"textAlign":"center"} -->
+<h2 class="has-text-align-center">Shop by room</h2>
+<!-- /wp:heading -->]]></content:encoded>
 <excerpt:encoded><![CDATA[]]></excerpt:encoded>
 <wp:post_id>501</wp:post_id>
 <wp:post_date><![CDATA[2026-01-12 09:00:00]]></wp:post_date>

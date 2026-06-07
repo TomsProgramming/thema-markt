@@ -27,6 +27,31 @@ def gradient(c1, c2):
     return img
 
 
+def make_size(path, size, c1, c2, label, text_color, sub=None, label_size=64, sub_size=30):
+    global W, H
+    oldW, oldH = W, H
+    W, H = size
+    img = gradient(c1, c2)
+    if label:
+        draw = ImageDraw.Draw(img)
+        font = ImageFont.truetype(FONT_BOLD, label_size)
+        bbox = draw.textbbox((0, 0), label, font=font)
+        tw, th = bbox[2] - bbox[0], bbox[3] - bbox[1]
+        x = (W - tw) / 2 - bbox[0]
+        y = (H - th) / 2 - bbox[1]
+        if sub:
+            y -= 26
+        draw.text((x, y), label, fill=text_color, font=font)
+        if sub:
+            sfont = ImageFont.truetype(FONT_REG, sub_size)
+            sb = draw.textbbox((0, 0), sub, font=sfont)
+            sx = (W - (sb[2] - sb[0])) / 2 - sb[0]
+            draw.text((sx, y + th + 30), sub.upper(), fill=text_color, font=sfont)
+    img.save(path, "JPEG", quality=84)
+    print("wrote", os.path.relpath(path, HERE))
+    W, H = oldW, oldH
+
+
 def make(path, c1, c2, label, text_color, sub=None):
     img = gradient(c1, c2)
     draw = ImageDraw.Draw(img)
@@ -107,3 +132,24 @@ make(os.path.join(ZK, "lumen-hero.jpg"), NAVY, TEAL, "Lumen Consulting", MIST,
      "Strategy / Brand / Technology")
 make(os.path.join(ZK, "about-team.jpg"), SLATE, MIST, "Our Team", NAVY)
 make(os.path.join(ZK, "services.jpg"), STEEL, MIST, "What We Do", NAVY)
+
+# ----------------------------------------------------- upgraded showcase art
+# Storefront wide hero (no text; cover block overlays its own heading)
+make_size(os.path.join(SF, "hero.jpg"), (1600, 900),
+          (236, 224, 210), (188, 150, 124), "", (0, 0, 0))
+# Zakra wide hero (cool, no text)
+make_size(os.path.join(ZK, "hero.jpg"), (1600, 900), NAVY, TEAL, "", MIST)
+# Zakra CTA band background
+make_size(os.path.join(ZK, "cta-bg.jpg"), (1600, 600), TEAL, NAVY, "", MIST)
+
+# Blossom featured category cards (pink palette to match the theme)
+BL = os.path.join(HERE, "blossom-feminine", "images")
+PINK1, PINK2, PLUM = (250, 224, 234), (243, 201, 221), (124, 74, 98)
+BLUSH1, BLUSH2 = (252, 235, 226), (244, 214, 201)
+for slug, label in [("card-fashion", "Fashion"), ("card-travel", "Travel"),
+                    ("card-beauty", "Beauty")]:
+    make_size(os.path.join(BL, slug + ".jpg"), (800, 600), PINK1, PINK2,
+              label, PLUM, label_size=58)
+# Blossom wide hero strip for the slider fallback / about widget
+make_size(os.path.join(BL, "about-emma.jpg"), (800, 800), BLUSH1, BLUSH2,
+          "Emma", PLUM, label_size=70)

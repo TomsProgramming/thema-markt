@@ -1,7 +1,9 @@
 {
   "$schema": "https://playground.wordpress.net/blueprint-schema.json",
   "login": true,
-  "plugins": ["woocommerce"],
+  "plugins": [
+    "woocommerce"
+  ],
   "siteOptions": {
     "blogname": "Maple & Stone",
     "blogdescription": "Homeware and decor for considered living",
@@ -15,7 +17,9 @@
         "resource": "url",
         "url": "https://github.com/TomsProgramming/thema-markt/raw/refs/heads/main/test-themes/storefront/storefront.4.6.2.zip"
       },
-      "options": { "activate": true }
+      "options": {
+        "activate": true
+      }
     },
     {
       "step": "importWxr",
@@ -25,20 +29,8 @@
       }
     },
     {
-      "step": "setSiteOptions",
-      "options": {
-        "show_on_front": "page",
-        "page_on_front": "501",
-        "woocommerce_currency": "EUR",
-        "woocommerce_store_address": "Keizersgracht 123",
-        "woocommerce_store_city": "Amsterdam",
-        "woocommerce_default_country": "NL",
-        "woocommerce_currency_pos": "left_space"
-      }
-    },
-    {
       "step": "runPHP",
-      "code": "<?php require_once '/wordpress/wp-load.php'; $menu = get_term_by('slug', 'primary-menu', 'nav_menu'); if ($menu) { $locations = get_theme_mod('nav_menu_locations', array()); $locations['primary'] = $menu->term_id; set_theme_mod('nav_menu_locations', $locations); } if (function_exists('wc_update_product_lookup_tables')) { wc_update_product_lookup_tables(); } flush_rewrite_rules();"
+      "code": "<?php\n/**\n * Maple & Stone - Storefront showcase setup.\n * Runs once after the WXR import (see build_blueprints.py / blueprint runPHP).\n */\nrequire_once '/wordpress/wp-load.php';\n\n/* ---- Remove default WordPress sample content ---------------------------- */\nforeach ( array( 1, 2, 3 ) as $def ) { // Hello world, Sample Page, Privacy Policy\n\tif ( get_post( $def ) ) {\n\t\twp_delete_post( $def, true );\n\t}\n}\n\n/* ---- Brand palette (warm walnut + caramel) ------------------------------ */\n$mods = array(\n\t'storefront_header_background_color' => '#5b4636',\n\t'storefront_header_text_color'       => '#e9ddcf',\n\t'storefront_header_link_color'       => '#ffffff',\n\t'storefront_heading_color'           => '#3a2e26',\n\t'storefront_text_color'              => '#5c5048',\n\t'storefront_accent_color'            => '#b57a52',\n\t'storefront_hero_heading_color'      => '#ffffff',\n\t'storefront_hero_text_color'         => '#f3ead8',\n\t'storefront_button_background_color' => '#5b4636',\n\t'storefront_button_text_color'       => '#ffffff',\n\t'storefront_button_alt_background_color' => '#b57a52',\n\t'storefront_button_alt_text_color'   => '#ffffff',\n\t'storefront_footer_background_color'  => '#efe7dd',\n\t'storefront_footer_heading_color'     => '#3a2e26',\n\t'storefront_footer_text_color'        => '#5c5048',\n\t'storefront_footer_link_color'        => '#5b4636',\n);\nforeach ( $mods as $k => $v ) {\n\tset_theme_mod( $k, $v );\n}\n\n/* ---- Static front page (the Homepage template) -------------------------- */\n$home = get_page_by_path( 'homepage' );\nif ( $home ) {\n\tupdate_option( 'show_on_front', 'page' );\n\tupdate_option( 'page_on_front', $home->ID );\n}\n\n/* ---- WooCommerce store basics + showcase refresh ------------------------ */\nupdate_option( 'woocommerce_currency', 'EUR' );\nupdate_option( 'woocommerce_currency_pos', 'left_space' );\nupdate_option( 'woocommerce_default_country', 'NL' );\nupdate_option( 'woocommerce_store_address', 'Keizersgracht 123' );\nupdate_option( 'woocommerce_store_city', 'Amsterdam' );\nupdate_option( 'woocommerce_demo_store', 'no' );\n// Re-save every product through the WooCommerce CRUD so the product lookup\n// table (price, on-sale, featured) is rebuilt - the raw WXR import skips this,\n// which otherwise leaves the \"On Sale\" homepage section empty.\nif ( function_exists( 'wc_get_products' ) ) {\n\t$ids = wc_get_products( array( 'limit' => -1, 'return' => 'ids', 'status' => 'publish' ) );\n\tforeach ( $ids as $pid ) {\n\t\t$p = wc_get_product( $pid );\n\t\tif ( $p ) {\n\t\t\t$p->save();\n\t\t}\n\t}\n\tdelete_transient( 'wc_products_onsale' );\n\tdelete_transient( 'wc_featured_products' );\n\twc_delete_product_transients();\n}\n\n/* ---- Primary menu location --------------------------------------------- */\n$menu = get_term_by( 'slug', 'primary-menu', 'nav_menu' );\nif ( $menu ) {\n\t$locations            = get_theme_mod( 'nav_menu_locations', array() );\n\t$locations['primary'] = $menu->term_id;\n\tset_theme_mod( 'nav_menu_locations', $locations );\n}\n\n/* ---- Footer widgets (block widgets) ------------------------------------ */\n$blocks = get_option( 'widget_block', array() );\nif ( ! is_array( $blocks ) ) {\n\t$blocks = array();\n}\n$sidebars = get_option( 'sidebars_widgets', array() );\n\nfunction ms_block( &$blocks, $content ) {\n\t$i = 2;\n\twhile ( isset( $blocks[ $i ] ) ) {\n\t\t$i++;\n\t}\n\t$blocks[ $i ] = array( 'content' => $content );\n\treturn 'block-' . $i;\n}\n\n$sidebars['footer-1'] = array( ms_block( $blocks,\n\t'<!-- wp:heading {\"level\":3} --><h3>Maple &amp; Stone</h3><!-- /wp:heading -->'\n\t. '<!-- wp:paragraph --><p>Beautifully made homeware and decor, chosen to be used and loved for years. Independent makers, natural materials, quiet design.</p><!-- /wp:paragraph -->' ) );\n\n$sidebars['footer-2'] = array( ms_block( $blocks,\n\t'<!-- wp:heading {\"level\":3} --><h3>Shop</h3><!-- /wp:heading -->'\n\t. '<!-- wp:list --><ul>'\n\t. '<li><a href=\"/product-category/living/\">Living</a></li>'\n\t. '<li><a href=\"/product-category/kitchen/\">Kitchen</a></li>'\n\t. '<li><a href=\"/product-category/decor/\">Decor</a></li>'\n\t. '<li><a href=\"/shop/\">All products</a></li>'\n\t. '</ul><!-- /wp:list -->' ) );\n\n$sidebars['footer-3'] = array( ms_block( $blocks,\n\t'<!-- wp:heading {\"level\":3} --><h3>Customer care</h3><!-- /wp:heading -->'\n\t. '<!-- wp:list --><ul>'\n\t. '<li><a href=\"/about/\">About us</a></li>'\n\t. '<li>Free delivery over &euro;75</li>'\n\t. '<li>30-day returns</li>'\n\t. '<li>hello@mapleandstone.example</li>'\n\t. '</ul><!-- /wp:list -->' ) );\n\n$sidebars['footer-4'] = array( ms_block( $blocks,\n\t'<!-- wp:heading {\"level\":3} --><h3>Visit the studio</h3><!-- /wp:heading -->'\n\t. '<!-- wp:paragraph --><p>Keizersgracht 123<br>1015 CJ Amsterdam<br>Open Thu&ndash;Sun, 10&ndash;18h</p><!-- /wp:paragraph -->' ) );\n\n$blocks['_multiwidget'] = 1;\nupdate_option( 'widget_block', $blocks );\nupdate_option( 'sidebars_widgets', $sidebars );\n\nflush_rewrite_rules();\n"
     }
   ]
 }

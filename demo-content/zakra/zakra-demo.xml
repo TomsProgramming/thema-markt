@@ -368,20 +368,135 @@
 <dc:creator><![CDATA[admin]]></dc:creator>
 <guid isPermaLink="false">https://example.com/?p=501</guid>
 <description></description>
-<content:encoded><![CDATA[<p style="text-align:center;"><img src="https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/zakra/images/lumen-hero.jpg" alt="Lumen Consulting" /></p>
+<content:encoded><![CDATA[<!-- wp:cover {"url":"https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/zakra/images/hero.jpg","dimRatio":55,"overlayColor":"black","minHeight":600,"align":"full","contentPosition":"center center"} -->
+<div class="wp-block-cover alignfull" style="min-height:600px"><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-50 has-background-dim"></span><img class="wp-block-cover__image-background" src="https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/zakra/images/hero.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container">
+<!-- wp:heading {"textAlign":"center","level":1,"textColor":"white","style":{"typography":{"fontSize":"54px","lineHeight":"1.1"}}} -->
+<h1 class="has-text-align-center has-white-color has-text-color" style="font-size:54px;line-height:1.1">Turn strategy into momentum</h1>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"align":"center","textColor":"white","style":{"typography":{"fontSize":"20px"}}} -->
+<p class="has-text-align-center has-white-color has-text-color" style="font-size:20px">We partner with founders and leadership teams to sharpen strategy, strengthen brand, and ship the technology that moves the business forward.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"black"} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-black-color has-white-background-color has-text-color has-background wp-element-button" href="/contact/">Book a consultation</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"textColor":"white","className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-white-color has-text-color wp-element-button" href="/services/">Our services</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div></div>
+<!-- /wp:cover -->
 
-<h2 style="text-align:center;">We help ambitious teams turn strategy into momentum</h2>
-<p style="text-align:center;">Lumen Consulting partners with founders and leadership teams to sharpen their strategy, strengthen their brand, and ship the technology that moves the business forward.</p>
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"32px","bottom":"32px"}}}} -->
+<div class="wp-block-group alignfull" style="padding-top:32px;padding-bottom:32px"><!-- wp:paragraph {"align":"center","style":{"typography":{"textTransform":"uppercase","letterSpacing":"2px","fontSize":"13px"}},"textColor":"contrast"} -->
+<p class="has-text-align-center has-contrast-color has-text-color" style="font-size:13px;letter-spacing:2px;text-transform:uppercase">Trusted by teams at Northwind &bull; Meridian &bull; Kestrel Labs &bull; Aurora Health &bull; Tidal</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
 
-<h3>What we do</h3>
-<p><strong>Strategy &amp; Growth</strong> &mdash; We help you find the few decisions that matter most and build a roadmap your whole team can rally behind.</p>
-<p><strong>Brand &amp; Marketing</strong> &mdash; From positioning to launch, we shape a brand that earns attention and trust in a crowded market.</p>
-<p><strong>Technology &amp; Delivery</strong> &mdash; We choose pragmatic technology and help your team ship it, without the buzzwords or the bloat.</p>
+<!-- wp:heading {"textAlign":"center"} -->
+<h2 class="has-text-align-center">How we help</h2>
+<!-- /wp:heading -->
+<!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"bottom":"30px"}}}} -->
+<div class="wp-block-columns alignwide" style="padding-bottom:30px"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"style":{"color":{"background":"#eef3f5"},"spacing":{"padding":{"top":"30px","bottom":"30px","left":"28px","right":"28px"}},"border":{"radius":"8px"}}} -->
+<div class="wp-block-group has-background" style="border-radius:8px;background-color:#eef3f5;padding-top:30px;padding-right:28px;padding-bottom:30px;padding-left:28px"><!-- wp:heading {"level":3} -->
+<h3>Strategy &amp; Growth</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Market and customer research, positioning and a prioritised roadmap. We help you decide where to play and how to win.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"style":{"color":{"background":"#eef3f5"},"spacing":{"padding":{"top":"30px","bottom":"30px","left":"28px","right":"28px"}},"border":{"radius":"8px"}}} -->
+<div class="wp-block-group has-background" style="border-radius:8px;background-color:#eef3f5;padding-top:30px;padding-right:28px;padding-bottom:30px;padding-left:28px"><!-- wp:heading {"level":3} -->
+<h3>Brand &amp; Marketing</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Brand strategy, identity and go-to-market support. We build brands that are clear, distinctive and consistent everywhere.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"style":{"color":{"background":"#eef3f5"},"spacing":{"padding":{"top":"30px","bottom":"30px","left":"28px","right":"28px"}},"border":{"radius":"8px"}}} -->
+<div class="wp-block-group has-background" style="border-radius:8px;background-color:#eef3f5;padding-top:30px;padding-right:28px;padding-bottom:30px;padding-left:28px"><!-- wp:heading {"level":3} -->
+<h3>Technology &amp; Delivery</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Architecture reviews, pragmatic tech selection and hands-on delivery support that leaves your team more capable.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
 
-<h3>Why teams work with us</h3>
-<p>We are a small, senior team. You work directly with the people doing the thinking, not a layer of account managers. We measure ourselves on outcomes, and we leave your team more capable than we found it.</p>
+<!-- wp:media-text {"align":"wide","mediaPosition":"left","mediaType":"image","style":{"spacing":{"padding":{"top":"20px","bottom":"20px"}}}} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="padding-top:20px;padding-bottom:20px;grid-template-columns:50% auto"><figure class="wp-block-media-text__media"><img src="https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/zakra/images/about-team.jpg" alt="Our team"/></figure><div class="wp-block-media-text__content"><!-- wp:heading -->
+<h2>Senior people, real outcomes</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>You work directly with the people doing the thinking, not a layer of account managers. We measure ourselves on outcomes, not output.</p>
+<!-- /wp:paragraph -->
+<!-- wp:list -->
+<ul><li>Clear, jargon-free advice</li><li>Embedded alongside your team</li><li>Focused engagements with a defined end</li><li>We leave you more capable than we found you</li></ul>
+<!-- /wp:list --></div></div>
+<!-- /wp:media-text -->
 
-<p style="text-align:center;"><a href="/contact/">Start a conversation &rarr;</a></p>]]></content:encoded>
+<!-- wp:group {"align":"full","style":{"color":{"background":"#1a2942"},"spacing":{"padding":{"top":"56px","bottom":"56px"}}},"textColor":"white"} -->
+<div class="wp-block-group alignfull has-white-color has-text-color has-background" style="background-color:#1a2942;padding-top:56px;padding-bottom:56px"><!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"textAlign":"center","level":2,"textColor":"white"} -->
+<h2 class="has-text-align-center has-white-color has-text-color">120+</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"align":"center","textColor":"white"} -->
+<p class="has-text-align-center has-white-color has-text-color">Projects delivered</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"textAlign":"center","level":2,"textColor":"white"} -->
+<h2 class="has-text-align-center has-white-color has-text-color">15 yrs</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"align":"center","textColor":"white"} -->
+<p class="has-text-align-center has-white-color has-text-color">Average team experience</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"textAlign":"center","level":2,"textColor":"white"} -->
+<h2 class="has-text-align-center has-white-color has-text-color">4.9/5</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"align":"center","textColor":"white"} -->
+<p class="has-text-align-center has-white-color has-text-color">Average client rating</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"textAlign":"center","level":2,"textColor":"white"} -->
+<h2 class="has-text-align-center has-white-color has-text-color">30+</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"align":"center","textColor":"white"} -->
+<p class="has-text-align-center has-white-color has-text-color">Clients across Europe</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:quote {"align":"wide","className":"is-style-large"} -->
+<blockquote class="wp-block-quote alignwide is-style-large"><!-- wp:paragraph -->
+<p>Lumen helped us cut through the noise and focus on the three things that actually moved our numbers. Six months on, the strategy is still guiding every decision we make.</p>
+<!-- /wp:paragraph --><cite>Marit de Vries &mdash; COO, Northwind</cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:cover {"url":"https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/zakra/images/cta-bg.jpg","dimRatio":60,"overlayColor":"black","minHeight":320,"align":"full"} -->
+<div class="wp-block-cover alignfull" style="min-height:320px"><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-60 has-background-dim"></span><img class="wp-block-cover__image-background" src="https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/zakra/images/cta-bg.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container">
+<!-- wp:heading {"textAlign":"center","textColor":"white"} -->
+<h2 class="has-text-align-center has-white-color has-text-color">Let's build what's next</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"align":"center","textColor":"white"} -->
+<p class="has-text-align-center has-white-color has-text-color">Tell us what you're working on. We'll get back to you within two business days.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"black"} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-black-color has-white-background-color has-text-color has-background wp-element-button" href="/contact/">Start a conversation</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div></div>
+<!-- /wp:cover -->]]></content:encoded>
 <excerpt:encoded><![CDATA[We help ambitious teams turn strategy into momentum.]]></excerpt:encoded>
 <wp:post_id>501</wp:post_id>
 <wp:post_date><![CDATA[2026-01-12 09:00:00]]></wp:post_date>

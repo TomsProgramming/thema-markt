@@ -691,5 +691,107 @@
 <wp:postmeta><wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
 </item>
+<item>
+<title><![CDATA[Fashion card image]]></title>
+<link>https://example.com/?p=320</link>
+<pubDate>Sat, 10 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/blossom-feminine/images/card-fashion.jpg</guid>
+<description></description><content:encoded><![CDATA[]]></content:encoded><excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>320</wp:post_id>
+<wp:post_date><![CDATA[2026-01-10 09:00:00]]></wp:post_date><wp:post_date_gmt><![CDATA[2026-01-10 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status><wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[card-fashion]]></wp:post_name><wp:status><![CDATA[inherit]]></wp:status>
+<wp:post_parent>210</wp:post_parent><wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[attachment]]></wp:post_type><wp:post_password><![CDATA[]]></wp:post_password><wp:is_sticky>0</wp:is_sticky>
+<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/blossom-feminine/images/card-fashion.jpg]]></wp:attachment_url>
+<wp:postmeta><wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key><wp:meta_value><![CDATA[Fashion]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[Travel card image]]></title>
+<link>https://example.com/?p=321</link>
+<pubDate>Sat, 10 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/blossom-feminine/images/card-travel.jpg</guid>
+<description></description><content:encoded><![CDATA[]]></content:encoded><excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>321</wp:post_id>
+<wp:post_date><![CDATA[2026-01-10 09:00:00]]></wp:post_date><wp:post_date_gmt><![CDATA[2026-01-10 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status><wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[card-travel]]></wp:post_name><wp:status><![CDATA[inherit]]></wp:status>
+<wp:post_parent>211</wp:post_parent><wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[attachment]]></wp:post_type><wp:post_password><![CDATA[]]></wp:post_password><wp:is_sticky>0</wp:is_sticky>
+<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/blossom-feminine/images/card-travel.jpg]]></wp:attachment_url>
+<wp:postmeta><wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key><wp:meta_value><![CDATA[Travel]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[Beauty card image]]></title>
+<link>https://example.com/?p=322</link>
+<pubDate>Sat, 10 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/blossom-feminine/images/card-beauty.jpg</guid>
+<description></description><content:encoded><![CDATA[]]></content:encoded><excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>322</wp:post_id>
+<wp:post_date><![CDATA[2026-01-10 09:00:00]]></wp:post_date><wp:post_date_gmt><![CDATA[2026-01-10 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status><wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[card-beauty]]></wp:post_name><wp:status><![CDATA[inherit]]></wp:status>
+<wp:post_parent>212</wp:post_parent><wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[attachment]]></wp:post_type><wp:post_password><![CDATA[]]></wp:post_password><wp:is_sticky>0</wp:is_sticky>
+<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TomsProgramming/thema-markt/main/demo-content/blossom-feminine/images/card-beauty.jpg]]></wp:attachment_url>
+<wp:postmeta><wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key><wp:meta_value><![CDATA[Beauty]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[Fashion]]></title>
+<link>https://example.com/?p=210</link>
+<pubDate>Sat, 10 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?p=210</guid>
+<description></description>
+<content:encoded><![CDATA[<p>From everyday capsule pieces to the seasonal edits I keep coming back to, this is where I share what I'm wearing and why. Slow fashion, natural fabrics, and outfits built to last.</p>
+<p>Browse the latest style stories on the journal, or say hello on the <a href="/contact/">contact page</a> if you'd like a personal recommendation.</p>]]></content:encoded>
+<excerpt:encoded><![CDATA[Slow fashion, natural fabrics, and outfits built to last.]]></excerpt:encoded>
+<wp:post_id>210</wp:post_id>
+<wp:post_date><![CDATA[2026-01-10 09:00:00]]></wp:post_date><wp:post_date_gmt><![CDATA[2026-01-10 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status><wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[fashion]]></wp:post_name><wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent><wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[page]]></wp:post_type><wp:post_password><![CDATA[]]></wp:post_password><wp:is_sticky>0</wp:is_sticky>
+<wp:postmeta><wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key><wp:meta_value><![CDATA[320]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[Travel]]></title>
+<link>https://example.com/?p=211</link>
+<pubDate>Sat, 10 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?p=211</guid>
+<description></description>
+<content:encoded><![CDATA[<p>Slow weekends, hidden cafes, and the little corners of the world worth taking your time over. My travel notes are part guide, part diary, always unhurried.</p>
+<p>Find the newest destinations on the journal and start planning somewhere lovely.</p>]]></content:encoded>
+<excerpt:encoded><![CDATA[Slow weekends, hidden cafes, and corners of the world worth taking your time over.]]></excerpt:encoded>
+<wp:post_id>211</wp:post_id>
+<wp:post_date><![CDATA[2026-01-10 09:00:00]]></wp:post_date><wp:post_date_gmt><![CDATA[2026-01-10 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status><wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[travel]]></wp:post_name><wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent><wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[page]]></wp:post_type><wp:post_password><![CDATA[]]></wp:post_password><wp:is_sticky>0</wp:is_sticky>
+<wp:postmeta><wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key><wp:meta_value><![CDATA[321]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[Beauty]]></title>
+<link>https://example.com/?p=212</link>
+<pubDate>Sat, 10 Jan 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?p=212</guid>
+<description></description>
+<content:encoded><![CDATA[<p>The gentle, no-fuss routines and clean products I actually reach for. Skin-first beauty that's about feeling like yourself, just a little more glowing.</p>
+<p>Read the latest beauty favourites on the journal.</p>]]></content:encoded>
+<excerpt:encoded><![CDATA[Skin-first beauty that's about feeling like yourself, just a little more glowing.]]></excerpt:encoded>
+<wp:post_id>212</wp:post_id>
+<wp:post_date><![CDATA[2026-01-10 09:00:00]]></wp:post_date><wp:post_date_gmt><![CDATA[2026-01-10 09:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status><wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[beauty]]></wp:post_name><wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent><wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[page]]></wp:post_type><wp:post_password><![CDATA[]]></wp:post_password><wp:is_sticky>0</wp:is_sticky>
+<wp:postmeta><wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key><wp:meta_value><![CDATA[322]]></wp:meta_value></wp:postmeta>
+</item>
 </channel>
 </rss>
