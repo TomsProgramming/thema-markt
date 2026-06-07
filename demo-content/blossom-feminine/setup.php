@@ -16,7 +16,7 @@ foreach ( array( 1, 2, 3 ) as $def ) { // Hello world, Sample Page, Privacy Poli
 set_theme_mod( 'primary_color', '#e89ab9' );
 set_theme_mod( 'ed_slider', true );
 set_theme_mod( 'slider_type', 'latest_posts' );
-set_theme_mod( 'no_of_slides', 5 );
+set_theme_mod( 'no_of_slides', 3 );
 set_theme_mod( 'ed_featured_area', true );
 
 $slugs = array( 'featured_content_one' => 'fashion', 'featured_content_two' => 'travel', 'featured_content_three' => 'beauty' );
